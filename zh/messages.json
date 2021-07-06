@@ -1,0 +1,3838 @@
+{
+    "translation_version": {
+        "message": "0"
+    },
+
+    "options_title": {
+        "message": "程序选项"
+    },
+    "options_receive_app_notifications": {
+        "message": "程序更新时接收桌面通知"
+    },
+    "options_improve_configurator": {
+        "message": "匿名发送使用情况给开发团队"
+    },
+
+    "connect": {
+        "message": "链接"
+    },
+    "connecting": {
+        "message": "链接中"
+    },
+    "disconnect": {
+        "message": "断线"
+    },
+    "autoConnect": {
+        "message": "自动链接"
+    },
+    "autoConnectEnabled": {
+        "message": "自动链接 : 开启 - 当检测到新的端口时尝试自动链接"
+    },
+    "autoConnectDisabled": {
+        "message": "自动链接 : 关闭 - 使用者必需选择正确的端口并且点选 链接 键"
+    },
+    "deviceRebooting": {
+        "message": "装置 - <span style=\"color: red\">重新启动</span>"
+    },
+    "deviceReady": {
+        "message": "装置 - <span style=\"color: #37a8db\">已就绪</span>"
+    },
+    "fcNotConnected": {
+        "message": "未连接"
+    },
+
+    "backupFileIncompatible": {
+        "message": "警告，此备份档是以较旧版本的 iNav - Configurator 所产生的，不相容于目前所使用的版本"
+    },
+
+    "backupFileUnmigratable": {
+        "message": "警告，此备份档是以较旧版本的 iNav - Configurator 所产生的，无法转移"
+    },
+
+    "configMigrationFrom": {
+        "message": "透过配置程序转移配置档案 : $1"
+    },
+    "configMigratedTo": {
+        "message": "转移配置到配置程序 : $1"
+    },
+    "configMigrationSuccessful": {
+        "message": "配置转移完成，转移套用 : $1"
+    },
+    "documentation": {
+        "message": "文档"
+    },
+    "tabFirmwareFlasher": {
+        "message": "固件烧录"
+    },
+    "tabLanding": {
+        "message": "欢迎"
+    },
+    "tabHelp": {
+        "message": "文档&支持"
+    },
+    "tabSetup": {
+        "message": "设置"
+    },
+    "tabCalibration": {
+        "message": "校准"
+    },
+    "tabConfiguration": {
+        "message": "配置"
+    },
+    "tabPorts": {
+        "message": "端口"
+    },
+    "tabPidTuning": {
+        "message": "PID调试"
+    },
+    "tabReceiver": {
+        "message": "接收机"
+    },
+    "tabMisc": {
+        "message": "杂项"
+    },
+    "tabModeSelection": {
+        "message": "模式选择"
+    },
+    "tabServos": {
+        "message": "舵机"
+    },
+    "tabFailsafe": {
+        "message": "失控保护"
+    },
+    "tabTransponder": {
+        "message": "赛事计时器"
+    },
+    "tabGPS": {
+        "message": "GPS"
+    },
+    "tabOutputs": {
+        "message": "输出"
+    },
+    "tabLedStrip": {
+        "message": "LED灯"
+    },
+    "tabRawSensorData": {
+        "message": "传感器"
+    },
+    "tabCLI": {
+        "message": "CLI命令行"
+    },
+    "tabLogging": {
+        "message": "链接记录"
+    },
+    "tabOnboardLogging": {
+        "message": "黑匣子"
+    },
+    "tabAdjustments": {
+        "message": "调整"
+    },
+    "tabAuxiliary": {
+        "message": "模式"
+    },
+
+    "serialPortOpened": {
+        "message": "端口<span style=\"color: #37a8db\">开启成功</span> ID: $1"
+    },
+    "serialPortOpenFail": {
+        "message": "端口<span style=\"color: red\">开启失败</span>"
+    },
+    "serialPortClosedOk": {
+        "message": "端口 <span style=\"color: #37a8db\">关闭成功</span>"
+    },
+    "serialPortClosedFail": {
+        "message": "端口<span style=\"color: red\">关闭失败</span> "
+    },
+
+    "usbDeviceOpened": {
+        "message": "USB<span style=\"color: #37a8db\">开启成功</span> ID: $1"
+    },
+    "usbDeviceOpenFail": {
+        "message": "USB<span style=\"color: red\">开启失败</span>"
+    },
+    "usbDeviceClosed": {
+        "message": "USB<span style=\"color: #37a8db\">关闭成功</span> closed"
+    },
+    "usbDeviceCloseFail": {
+        "message": "USB<span style=\"color: red\">无法关闭</span>"
+    },
+    "usbDeviceUdevNotice": {
+        "message": "<strong>udev 规则</strong> 是否安装正确? 参阅文档说明"
+    },
+
+    "noConfigurationReceived": {
+        "message": "<span style=\"color: red\">10 秒</span> 内没有收到配置资讯，<span style=\"color: red\">通讯异常</span>"
+    },
+    "firmwareVersionNotSupported": {
+        "message": "<span style=\"color: red\">不支持</span>这个固件版本。这个版本的调参软件支持的固件是从 $1 到 $2(不包含)"
+    },
+    "firmwareVariantNotSupported": {
+        "message": "<span style=\"color: red\">不支持</span>这个固件版本。请更新 iNav 固件。在更新之前可用 CLI 进行备份，CLI 的备份或还原方式请参阅文档"
+    },
+
+    "tabSwitchConnectionRequired": {
+        "message": "在浏览任何页签之前请先<strong>链接</strong>"
+    },
+    "tabSwitchWaitForOperation": {
+        "message": "您现在<span style=\"color: red\">不能</span>进行这项操作，请等候目前的工作完成 ..."
+    },
+
+    "tabSwitchUpgradeRequired": {
+        "message": "在使用 $1 页签之前请先  <strong>更新固件</strong>"
+    },
+    "firmwareVersion": {
+        "message": "固件版本 : <strong>$1</strong>"
+    },
+    "apiVersionReceived": {
+        "message": "<span style=\"color: #37a8db\">接收</span> MultiWii API 版本 - <strong>$1</strong>"
+    },
+    "uniqueDeviceIdReceived": {
+        "message": "<span style=\"color: #37a8db\">接收</span> 装置 ID - <strong>0x$1</strong>"
+    },
+    "boardInfoReceived": {
+        "message": "飞控板 : <strong>$1</strong>，版本 : <strong>$2</strong>"
+    },
+    "buildInfoReceived": {
+        "message": "固件发布时间 : <strong>$1</strong>"
+    },
+    "fcInfoReceived": {
+        "message": "飞控资讯，识别码 : <strong>$1</strong>，版本 : <strong>$2</strong>"
+    },
+
+    "notifications_app_just_updated_to_version": {
+        "message": "程序已更新到版本 : $1"
+    },
+    "notifications_click_here_to_start_app": {
+        "message": "点选这里以启动程序"
+    },
+
+    "statusbar_port_utilization": {
+        "message": "端口状态:"
+    },
+    "statusbar_usage_download": {
+        "message": "下载: $1%"
+    },
+    "statusbar_usage_upload": {
+        "message": "上传: $1%"
+    },
+    "statusbar_packet_error": {
+        "message": "封包错误:"
+    },
+    "statusbar_i2c_error": {
+        "message": "I2C 错误:"
+    },
+    "statusbar_cycle_time": {
+        "message": "周期时间:"
+    },
+    "statusbar_cpu_load": {
+        "message": "CPU 使用率: $1%"
+    },
+
+    "dfu_connect_message": {
+        "message": "请使用固件刷写器连接 DFU 装置"
+    },
+    "dfu_erased_kilobytes": {
+        "message": "清空储存 $1 KB <span style=\"color: #37a8db\">成功</span>"
+    },
+    "dfu_device_flash_info": {
+        "message": "检测装置总储存容量 $1 kiB"
+    },
+    "dfu_error_image_size": {
+        "message": "<span style=\"color: red; font-weight: bold\">错误</span> : 档案容量大于储存可用容量，档案 : $1 kiB，限制 = $2 kiB"
+    },
+
+    "eeprom_saved_ok": {
+        "message": "可擦写存储器 <span style=\"color: #37a8db\">已储存</span>"
+    },
+
+    "defaultWelcomeIntro": {
+        "message": "欢迎来到 <strong>iNav - Configurator - 小念汉化</strong>，这是一个可以更新、设置或调整飞控的实用程序."
+    },
+
+    "defaultWelcomeText": {
+        "message": "这个程序支援所有可以运行 iNav 的硬件 (<a href=\"https://inavflight.com/shop/p/MATEKF405WING\" target=\"_blank\">Matek F405-WING</a>, <a href=\"https://inavflight.com/shop/p/MATEKF722SE\" target=\"_blank\">Matek F722-SE</a> 还有很多其它的飞控板). 完整的建议列表可查看<a href=\"https://github.com/iNavFlight/inav/wiki/Welcome-to-INAV,-useful-links-and-products\" target=\"_blank\">这里</a>.<br /><br />固件源代码可以从 <a href=\"https://github.com/iNavFlight\" title=\"www.github.com\" target=\"_blank\">这里下载</a><br />最新的二进制固件可以在 <a href=\"https://github.com/iNavFlight/inav/releases\" title=\"www.github.com\" target=\"_blank\">这里下载</a>.<br /><br />Latest <strong>STM USB VCP Drivers</strong>下载 <a href=\"http://www.st.com/web/en/catalog/tools/PF257938\" title=\"http://www.st.com\" target=\"_blank\">这里下载</a><br />Latest <strong>Zadig</strong> win的强制DFU <a href=\"http://zadig.akeo.ie/\" title=\"http://zadig.akeo.ie\" target=\"_blank\">这里下载</a><br />"
+    },
+    "defaultContributingHead": {
+        "message": "贡献"
+    },
+    "defaultContributingText": {
+        "message": "如果您愿意协助让 iNav 做的更好，可透过以下方式 :<br /><ul><li>在论坛或其它地方协助回答使用者的问题.</li><li>协助撰写程序原始码 - 新功能、修复、改进</li><li>如果你发现当中某些翻译不太合适或者不正确，请截图并附上正确翻译发送邮件至www.lmoxiaonian@qq.com</li><li>协助测试 <a href=\"https://github.com/iNavFlight/inav/pulls\" target=\"_blank\"新功能/fixes</a>和反馈问题.</li><li>协助回复 <a href=\"https://github.com/iNavFlight/inav/issues\" target=\"_blank\">问题记录和功能请求</a>.</li></ul>"
+    },
+    "defaultChangelogHead": {
+        "message": "Configurator - 更新日志"
+    },
+    "defaultButtonFirmwareFlasher": {
+        "message": "固件烧录器"
+    },
+    "defaultDonateHead": {
+        "message": "开源/捐赠说明"
+    },
+    "defaultDonateText": {
+        "message": "这是一个 完全开源的应用，为所有 INAV用户提供。如果你发现INAV很好用, 请支持我们继续开发。如果你发现当中某些翻译不太合适或者不正确，请截图并附上正确翻译发送邮件至www.lmoxiaonian@qq.com"
+    },
+    "defaultSponsorsHead": {
+        "message": "赞助商"
+    },
+    "communityRCGroupsSupport": {
+        "message": "RC Groups 论坛支持"
+    },
+    "communitySlackSupport": {
+        "message": "Slack 线上支持"
+    },
+    "communityTelegramSupport": {
+        "message": "Telegram 频道"
+    },
+    "communityFacebookSupport": {
+        "message": "Facebook 社团"
+    },
+    "initialSetupBackupAndRestoreApiVersion": {
+        "message": "<span style=\"color: red\">备份和还原功能已关闭。</span>  您的固件 API 版本 : <span style=\"color: red\">$1</span>, 备份和还原需求版本 : <span style=\"color: #37a8db\">$2</span>.  。请通过 CLI 备份您的设置，更多帮助请参阅 iNav 文档"
+    },
+    "initialSetupButtonCalibrateAccel": {
+        "message": "加速计校准"
+    },
+    "initialSetupCalibrateAccelText": {
+        "message": "加速度计的6点校准。有关iNav传感器校准的更多信息，请访问wiki"
+    },
+    "initialSetupButtonCalibrateMag": {
+        "message": "罗盘校准"
+    },
+    "initialSetupCalibrateMagText": {
+        "message": "转动飞行器，在所有轴向上转动 <strong>360</strong> 度, 您有 30 秒的时间完成这项操作"
+    },
+    "initialSetupButtonReset": {
+        "message": "复位设置"
+    },
+    "initialSetupResetText": {
+        "message": "复位设置到 <strong>默认值</strong>"
+    },
+    "initialSetupButtonBackup": {
+        "message": "备份"
+    },
+    "initialSetupButtonRestore": {
+        "message": "还原"
+    },
+    "initialSetupBackupRestoreText": {
+        "message": "<strong>备份</strong>  您的配置以备不时之需, <strong>CLI</strong> 设置 <span style=\"color: red\">不</span> 包括 - 参阅 'dump' cli 指令"
+    },
+    "initialSetupBackupSuccess": {
+        "message": "备份储存 <span style=\"color: #37a8db\">成功</span>"
+    },
+    "initialSetupRestoreSuccess": {
+        "message": "配置还原<span style=\"color: #37a8db\">成功</span>"
+    },
+    "initialSetupButtonResetZaxis": {
+        "message": "复位 Z 轴，偏移 : 0 度"
+    },
+    "initialSetupButtonResetZaxisValue": {
+        "message": "复位 Z 轴，偏移 : $1 度"
+    },
+    "initialSetupMixerHead": {
+        "message": "混控型式"
+    },
+    "initialSetupThrottleHead": {
+        "message": "油门设置"
+    },
+    "initialSetupMinimum": {
+        "message": "最小值:"
+    },
+    "initialSetupMaximum": {
+        "message": "最大值:"
+    },
+    "initialSetupFailsafe": {
+        "message": "失控保护:"
+    },
+    "initialSetupMinCommand": {
+        "message": "最小命令:"
+    },
+    "initialSetupBatteryHead": {
+        "message": "电池"
+    },
+    "initialSetupMinCellV": {
+        "message": "单节电池最小电压 :"
+    },
+    "initialSetupMaxCellV": {
+        "message": "单节电池最大电压:"
+    },
+    "initialSetupVoltageScale": {
+        "message": "电压比例:"
+    },
+    "initialSetupAccelTrimsHead": {
+        "message": "加速计微调"
+    },
+    "initialSetupPitch": {
+        "message": "俯仰:"
+    },
+    "initialSetupRoll": {
+        "message": "滚转:"
+    },
+    "initialSetupMagHead": {
+        "message": "罗盘"
+    },
+    "initialSetupDeclination": {
+        "message": "磁偏角:"
+    },
+    "initialSetupInfoHead": {
+        "message": "资讯"
+    },
+    "initialSetupBatteryVoltage": {
+        "message": "电池电压:"
+    },
+    "initialSetupBatteryDetectedCells": {
+        "message": "电池串数:"
+    },
+    "initialSetupBatteryDetectedCellsValue": {
+        "message": "$1"
+    },
+    "initialSetupBatteryPercentage": {
+        "message": "电池电量:"
+    },
+    "initialSetupBatteryPercentageValue": {
+        "message": "$1 %"
+    },
+    "initialSetupBatteryRemainingCapacity": {
+        "message": "电池剩余电量"
+    },
+    "initialSetupBatteryRemainingCapacityValue": {
+        "message": "$1 $2"
+    },
+    "initialSetupBatteryFull": {
+        "message": "当连接电池时电量充足"
+    },
+    "initialSetupBatteryFullValue": {
+        "message": "$1"
+    },
+    "initialSetupBatteryThresholds": {
+        "message": "电池使用上限值"
+    },
+    "initialSetupBatteryThresholdsValue": {
+        "message": "$1"
+    },
+    "initialSetup_Wh_drawn": {
+        "message": "消耗电量:"
+    },
+    "initialSetup_Wh_drawnValue": {
+        "message": "$1 Wh"
+    },
+    "initialSetupBatteryVoltageValue": {
+        "message": "$1 V"
+    },
+    "initialSetupDrawn": {
+        "message": "消耗电量:"
+    },
+    "initialSetupCurrentDraw": {
+        "message": "消耗电流:"
+    },
+    "initialSetupPowerDraw": {
+        "message": "消耗功率:"
+    },
+    "initialSetupPowerDrawValue": {
+        "message": "$1 W"
+    },
+    "initialSetupBatteryMahValue": {
+        "message": "$1 mAh"
+    },
+    "initialSetupCurrentDrawValue": {
+        "message": "$1 A"
+    },
+    "initialSetupRSSI": {
+        "message": "信号质量:"
+    },
+    "initialSetupRSSIValue": {
+        "message": "$1 %"
+    },
+    "initialSetupGPSHead": {
+        "message": "GPS"
+    },
+    "initialSetupInstrumentsHead": {
+        "message": "仪表板"
+    },
+    "initialSetupButtonSave": {
+        "message": "储存"
+    },
+    "initialSetupModel": {
+        "message": "模式: $1"
+    },
+    "initialSetupAttitude": {
+        "message": "$1 度"
+    },
+    "initialSetupAccelCalibStarted": {
+        "message": "开始校准加速度计"
+    },
+    "initialSetupAccelCalibEnded": {
+        "message": "加速度计校准 <span style=\"color: #37a8db\">已完成</span>"
+    },
+    "initialSetupMagCalibStarted": {
+        "message": "开始校准罗盘"
+    },
+    "initialSetupMagCalibEnded": {
+        "message": "罗盘校准<span style=\"color: #37a8db\">已完成</span>"
+    },
+    "initialSetupOpflowCalibStarted": {
+        "message": "开始校准光流"
+    },
+    "initialSetupOpflowCalibEnded": {
+        "message": "光流校准 <span style=\"color: #37a8db\">已完成</span>"
+    },
+    "initialSetupSettingsRestored": {
+        "message": "还原设置到<strong>默认值</strong>"
+    },
+    "initialSetupEepromSaved": {
+        "message": "可擦写存储器 <span style=\"color: #37a8db\">已储存</span>"
+    },
+
+    "RX_PPM": {
+        "message": "PPM RX 输入"
+    },
+    "RX_SERIAL": {
+        "message": "串式接收器(SPEKSAT, SBUS, SUMD)"
+    },
+    "RX_PWM": {
+        "message": "PWM RX 输入 (每通道一根线)"
+    },
+    "RX_MSP": {
+        "message": "MSP RX 输入 (通过MSP端口控制)"
+    },
+    "RX_SPI": {
+        "message": "RX SPI 接收器 (NRF24L01, RFM22)"
+    },
+    "RX_NONE": {
+        "message": "无接收器"
+    },
+
+    "featureVBAT": {
+        "message": "监测电池电压"
+    },
+    "featureTX_PROF_SEL": {
+        "message": "使用遥控器摇杆选择配置档"
+    },
+    "featureINFLIGHT_ACC_CAL": {
+        "message": "在飞行中校准"
+    },
+    "featureMOTOR_STOP": {
+        "message": "当解锁时电机不要运转"
+    },
+    "featureSERVO_TILT": {
+        "message": "舵机云台"
+    },
+    "featureBAT_PROFILE_AUTOSWITCH": {
+        "message": "自动选择电池配置档"
+    },
+    "featureBAT_PROFILE_AUTOSWITCHTip": {
+        "message": "当接上电池时以电池电压自动选择配置档"
+    },
+    "featureTHR_VBAT_COMP": {
+        "message": "油门电压补偿"
+    },
+    "featureTHR_VBAT_COMPTip": {
+        "message": "自动补偿电池压降系数以便保持油门恒定推力"
+    },
+    "featureSOFTSERIAL": {
+        "message": "开启软件端口"
+    },
+    "featureSOFTSERIALTip": {
+        "message": "开启后在端口页签配置端口"
+    },
+    "featureGPS": {
+        "message": "GPS 用于导航和数传"
+    },
+    "featureGPSTip": {
+        "message": "首先进行端口配置"
+    },
+    "featureFAILSAFE": {
+        "message": "失去接收器信号时的失控保护设置"
+    },
+    "featureSONAR": {
+        "message": "声纳"
+    },
+    "featureTELEMETRY": {
+        "message": "数传输出"
+    },
+    "featureCURRENT_METER": {
+        "message": "监测电池电流"
+    },
+    "featureREVERSIBLE_MOTORS": {
+        "message": "可逆电机模式(用于可逆电调,也称3D模式)"
+    },
+    "featureRSSI_ADC": {
+        "message": "RSSI 输入"
+    },
+    "featureLED_STRIP": {
+        "message": "支持多彩 RGB LED 灯带"
+    },
+    "featureDASHBOARD": {
+        "message": "OLED 荧幕显示"
+    },
+    "featureONESHOT125": {
+        "message": "ONESHOT电调支持"
+    },
+    "featureONESHOT125Tip": {
+        "message": "在开启之前先移除电池和桨叶"
+    },
+    "featurePWM_OUTPUT_ENABLE": {
+        "message": "开启电机和舵机输出"
+    },
+    "featurePWM_OUTPUT_ENABLETip": {
+        "message": "必需开启此选项之后 iNav 才会送出信号给电调，这是一种安全措施，防止舵机在更新飞控固件之后损坏"
+    },
+    "featureBLACKBOX": {
+        "message": "黑匣子飞行资料记录器"
+    },
+    "featureBLACKBOXTip": {
+        "message": "在开启之后透过黑匣子页签进行配置"
+    },
+    "featureCHANNEL_FORWARDING": {
+        "message": "转发 AUX 通道到舵机输出"
+    },
+    "featureTRANSPONDER": {
+        "message": "赛事计时器"
+    },
+    "featureTRANSPONDERTip": {
+        "message": "在开启之后透过赛事计时器页签进行配置"
+    },
+    "featureSOFTSPI": {
+        "message": "CPU 串列周边界面(SPI)"
+    },
+    "featurePWM_SERVO_DRIVER": {
+        "message": "外部 PWM 舵机驱动器"
+    },
+    "featurePWM_SERVO_DRIVERTip": {
+        "message": "使用外部 PCA9685 PMW 驱动器来控制最多 16 个舵机，必需连接 PCA9685 来开启功能"
+    },
+    "featureRSSI_ADCTip": {
+        "message": "RSSI 是信号强度测量，使用它可知飞行器是否超过信号范围，或是遭受信号干扰"
+    },
+    "featureOSD": {
+        "message": "OSD"
+    },
+    "featureAIRMODE": {
+        "message": "保持开启空气模型"
+    },
+    "featureFW_LAUNCH": {
+        "message": "固定翼保持开启抛飞模式"
+    },
+    "featureFW_AUTOTRIM": {
+        "message": "固定翼连续配平伺服系统"
+    },
+    "featureFW_AUTOTRIMTip": {
+        "message": "在稳定模式飞行时，不断调整伺服中点，使飞机在切换到手动模式时保持直线飞行。需要GPS。"
+    },
+    "featureDYNAMIC_FILTERS": {
+        "message": "动态陀螺仪滤波器"
+    },
+    "featureDYNAMIC_FILTERSTip": {
+        "message": "使用自动化 FFT 陀螺仪分析来设置陷波滤波器以减少陀螺仪干扰，通常应保持启用!"
+    },
+    "configurationFeatureEnabled": {
+        "message": "开启"
+    },
+    "configurationFeatureName": {
+        "message": "功能"
+    },
+    "configurationFeatureDescription": {
+        "message": "说明"
+    },
+    "configurationMixer": {
+        "message": "混控"
+    },
+    "configurationFeatures": {
+        "message": "其它功能"
+    },
+    "configurationReceiver": {
+        "message": "接收器模式"
+    },
+    "configurationRSSI": {
+        "message": "RSSI（信号强度）"
+    },
+    "configurationEscFeatures": {
+        "message": "电调 / 电机功能"
+    },
+    "serialrx_inverted": {
+        "message": "串行端口反向（与协议默认值相比）"
+    },
+    "serialrx_halfduplex" : {
+        "message": "串行接收机半双工"
+    },
+    "configurationFeaturesHelp": {
+        "message": "<strong>注意：</strong>并非所有功能组合都有效。当飞行控制器固件检测到无效的功能组合时，将禁用冲突功能。<br/><strong>注意：</strong>在启用将使用端口的功能之前，配置串行端口。"
+    },
+    "configurationSerialRXHelp": {
+        "message": "<strong>注意：</strong>记住为串行接收器（通过端口选项卡）配置串行端口"
+    },
+    "configurationBoardAlignment": {
+        "message": "飞控板和传感器安装方向对齐"
+    },
+    "configurationBoardAlignmentRoll": {
+        "message": "滚转角度"
+    },
+    "configurationBoardAlignmentPitch": {
+        "message": "俯仰角度"
+    },
+    "configurationBoardAlignmentYaw": {
+        "message": "偏航角度"
+    },
+    "configurationSensorAlignmentMag": {
+        "message": "罗盘调整"
+    },
+    "configurationAccelTrims": {
+        "message": "加速计微调"
+    },
+    "configurationAccelTrimRoll": {
+        "message": "加速计滚转微调"
+    },
+    "configurationAccelTrimPitch": {
+        "message": "加速计俯仰微调"
+    },
+    "configurationMagDeclination": {
+        "message": "罗盘磁偏角（deg）"
+    },
+    "configurationAutoDisarmDelay": {
+        "message": "低油门秒数到达后上锁"
+    },
+    "configurationAutoDisarmDelayHelp": {
+        "message": "仅适用于使用摇杆上锁（不使用通道开关）"
+    },
+    "configurationThrottleMinimum": {
+        "message": "油门最小值"
+    },
+    "configurationThrottleMid": {
+        "message": "油门中位值 （遥控器输入的中位值）"
+    },
+    "configurationThrottleMaximum": {
+        "message": "油门最大值"
+    },
+    "configurationThrottleMinimumCommand": {
+        "message": "最小命令量"
+    },
+    "configurationVoltageCurrentSensor": {
+        "message": "电压和电流传感器"
+    },
+    "configurationBatteryCurrent": {
+        "message": "电池电流"
+    },
+    "configurationVoltageSource": {
+        "message": "用于报警和数传的电压来源"
+    },
+    "configurationVoltageSourceHelp": {
+        "message": "原始电压是直接从蓄电池读取的电压。设置 Sag compensated（凹陷补偿）电压是电池空载时应处于的计算电压（模拟理想电池，消除高负载引起的假警报）"
+    },
+    "configurationBatteryCells": {
+        "message": "电池串数（0 = 自动侦测）"
+    },
+    "configurationBatteryCellsHelp": {
+        "message": "设置电池串数也将同时关闭自动侦测电池串数以及自动选择电池配置档的功能"
+    },
+    "configurationBatteryCellDetectVoltage": {
+        "message": "单节电池最大电压用于检测电池串数"
+    },
+    "configurationBatteryCellDetectVoltageHelp": {
+        "message": "设置单节电池的最大电压以便检测电池串数，设置值应高于 \"单节电池最大电压\" 此栏位中的设置，以便适应电池偏压的可能性以及确保检测电池串数的正确性"
+    },
+    "configurationBatteryMinimum": {
+        "message": "单节电池最小电压"
+    },
+    "configurationBatteryMaximum": {
+        "message": "单节电池最大电压"
+    },
+    "configurationBatteryWarning": {
+        "message": "单节电池警示电压"
+    },
+    "configurationBatteryScale": {
+        "message": "电压比例"
+    },
+    "configurationBatteryVoltage": {
+        "message": "电池电压"
+    },
+    "configurationCurrentScale": {
+        "message": "电流表刻度"
+    },
+    "configurationCurrentScaleHelp": {
+        "message": "比例缩放输出电压到安培 （1/10th mV/A）"
+    },
+    "configurationCurrentOffset": {
+        "message": "以每毫特偏移"
+    },
+    "configurationBatteryMultiwiiCurrent": {
+        "message": "开启支援 Multiwii MSP 电流输出"
+    },
+    "configurationBatterySettings": {
+        "message": "电池容量"
+    },
+    "configurationBatterySettingsHelp": {
+        "message": "这些设置适用于当前选定的电池配置文件 "
+    },
+    "configurationBatteryCapacityValue": {
+        "message": "容量"
+    },
+    "configurationBatteryCapacityWarning": {
+        "message": "警示容量（剩余 %）"
+    },
+    "configurationBatteryCapacityCritical": {
+        "message": "临界容量（剩余 %）"
+    },
+    "configurationBatteryCapacityUnit": {
+        "message": "电池容量单位"
+    },
+    "configurationLaunch": {
+        "message": "固定翼自动启动设置"
+    },
+    "configurationLaunchVelocity": {
+        "message": "临界速度 [cm/s]"
+    },
+    "configurationLaunchVelocityHelp": {
+        "message": "摆动发射探测的前进速度阈值。默认: 300 [100-10000]"
+    },
+    "configurationLaunchAccel": {
+        "message": "阈加速度 [cm/s/s]"
+    },
+    "configurationLaunchAccelHelp": {
+        "message": "弹力发射或投掷发射的前向加速度阈值, 1G = 981 cm/s/s. 默认: 1863 [1000-20000]"
+    },
+    "configurationLaunchMaxAngle": {
+        "message": "最大投掷角度 [&deg;]"
+    },
+    "configurationLaunchMaxAngleHelp": {
+        "message": "最大投掷角（俯仰/滚转组合）为了发射成功，设置为180可完全禁用。默认: 45 [5-180]"
+    },
+    "configurationLaunchDetectTime": {
+        "message": "检测时间 [ms]"
+    },
+    "configurationLaunchDetectTimeHelp": {
+        "message": "必须突破阈值以考虑启动的时间。 默认: 40 [10-1000]"
+    },
+    "configurationLaunchThr": {
+        "message": "启动油门 [uS]"
+    },
+    "configurationLaunchThrHelp": {
+        "message": "启动油门 - 要在启动序列期间设置的油门。 默认: 1700 [1000-2000]"
+    },
+    "configurationLaunchIdleThr": {
+        "message": "怠速油门 [uS]"
+    },
+    "configurationLaunchIdleThrHelp": {
+        "message": "怠速油门 - 启动启动序列之前要设置的油门。 如果设置低于最小油门，它将强制电机停止或处于怠速油门（取决于是否启用了 停止电机）。 如果设置高于最小油门，它将强制油门到此值（如果启用 停止电机，它将根据油门杆位置进行处理）。 默认: 1000 [1000-2000]"
+    },
+    "configurationLaunchMotorDelay": {
+        "message": "电机延迟 [ms]"
+    },
+    "configurationLaunchMotorDelayHelp": {
+        "message": "检测到的启动和启动序列开始和怠速之间的延迟。 默认: 500 [0-5000]"
+    },
+    "configurationLaunchSpinupTime": {
+        "message": "电机启动时间 [ms]"
+    },
+    "configurationLaunchSpinupTimeHelp": {
+        "message": "是时候将动力从最小油门带到发射模式油门了，以避免对电调产生过大压力和来自螺旋桨的大扭矩。 默认: 100 [0-1000]"
+    },
+    "configurationLaunchMinTime": {
+        "message": "最短启动时间 [ms]"
+    },
+    "configurationLaunchMinTimeHelp": {
+        "message": "允许启动模式至少执行一次 [ms] 并忽略摇杆运动。 默认: 0 [0-60000]"
+    },
+    "configurationLaunchTimeout": {
+        "message": "启动超时 [ms]"
+    },
+    "configurationLaunchTimeoutHelp": {
+        "message": "执行启动序列的最长时间。 在此时间之后，发射模式将关闭，并由常规飞行模式接管。 默认： 5000 [0-60000]"
+    },
+    "configurationLaunchEndTime": {
+        "message": "结束过渡时间 [ms]"
+    },
+    "configurationLaunchEndTimeHelp": {
+        "message": "启动结束时的平滑过渡时间（毫秒）。 这会添加到启动超时。 默认: 2000 [0-5000]"
+    },
+    "configurationLaunchMaxAltitude": {
+        "message": "最大海拔 [cm]"
+    },
+    "configurationLaunchMaxAltitudeHelp": {
+        "message": "发射模式将关闭，常规飞行模式接管的高度。 默认: 0 [0-60000]"
+    },
+    "configurationLaunchClimbAngle": {
+        "message": "爬坡角度 [&deg;]"
+    },
+    "configurationLaunchClimbAngleHelp": {
+        "message": "飞机（度）的爬升角（模型的姿态，不是爬升坡度）也受全局 最大倾斜角度 的限制。 默认: 18 [5-45]"
+    },
+    "configuration3d": {
+        "message": "可逆电机 （3D模式）"
+    },
+    "configuration3dDeadbandLow": {
+        "message": "3D 低值死区"
+    },
+    "configuration3dDeadbandHigh": {
+        "message": "3D 高值死区"
+    },
+    "configuration3dNeutral": {
+        "message": "3D 中位"
+    },
+    "configuration3dDeadbandThrottle": {
+        "message": "3D 油门死区"
+    },
+    "configurationSystem": {
+        "message": "系统配置"
+    },
+    "configurationLoopTime": {
+        "message": "飞控主程序回圈运算速度"
+    },
+    "configurationCalculatedCyclesSec": {
+        "message": "周期 / 秒 (Hz)"
+    },
+    "configurationGPS": {
+        "message": "GPS"
+    },
+    "configurationGPSProtocol": {
+        "message": "通信协议"
+    },
+     "configurationGPSUseGalileo": {
+        "message": "Gps 使用伽利略卫星"
+    },
+    "tzOffset": {
+        "message": "时区偏移 [分钟]"
+    },
+    "tzOffsetHelp": {
+        "message": "时区与 UTC 的偏移量，以分钟为单位。 这适用于用于记录黑盒日志和时间戳的 GPS 时间。 (默认= 0)"
+    },
+    "tzAutomaticDST": {
+        "message": "自动夏令时"
+    },
+    "tzAutomaticDSTHelp": {
+        "message": "需要时自动将夏令时添加到 GPS 时间，或者直接忽略它。 包括欧盟和美国的预设 - 如果您居住在这些地区之外，建议通过 时区偏移 手动管理自动夏令时。 （默认 = 关闭）"
+    },
+    "configurationGPSBaudrate": {
+        "message": "波特率"
+    },
+    "configurationGPSubxSbas": {
+        "message": "地面辅助类型"
+    },
+    "configurationGPSHelp": {
+        "message": "<strong>注意：</strong> 使用 GPS 功能时，请记住配置串行端口（通过端口选项卡）。"
+    },
+    "receiverType": {
+        "message": "接收机类型"
+    },
+    "configurationSerialRX": {
+        "message": "串行接收器提供程序"
+    },
+    "configurationSPIProtocol": {
+        "message": "接收机SPI通信协议"
+    },
+    "configurationPersonalization": {
+        "message": "个性化"
+    },
+    "configurationCraftName": {
+        "message": "飞行器名称"
+    },
+    "configurationCraftNameHelp": {
+        "message": "飞行器名称，可以透过 OSD 或兼容的遥控系统显示"
+    },
+    "configurationEepromSaved": {
+        "message": "可擦写存储器 <span style=\"color: #37a8db\">已储存</span>"
+    },
+    "configurationButtonSave": {
+        "message": "储存并重启"
+    },
+    "configurationVTX": {
+        "message": "图传"
+    },
+    "configurationVTXBand": {
+        "message": "频段"
+    },
+    "configurationNoBand": {
+        "message": "无"
+    },
+    "configurationVTXNoBandHelp": {
+        "message": "图传频率已手动设置，选择频段将覆盖已配置的频率"
+    },
+    "configurationVTXChannel": {
+        "message": "频道"
+    },
+    "configurationVTXPower": {
+        "message": "输出功率"
+    },
+    "configurationVTXPowerHelp": {
+        "message": "图传功率。 以 mw（或 dBm）为单位的确切功率将取决于特定的硬件。 请查阅您的图传手册。"
+    },
+    "configurationVTXLowerPowerDisarm": {
+        "message": "当飞行器上锁时使用较低的输出功率"
+    },
+    "configurationVTXLowerPowerDisarmHelp": {
+        "message": "开启这个选项会让图传在飞行器上锁时使用较低的输出功率，使用 \"直到第一次解锁\" 这个选项会让图传维持输出较低功率直到第一次解锁时"
+    },
+    "configurationVTXLowPowerDisarmValue_0": {
+        "message": "关闭"
+    },
+    "configurationVTXLowPowerDisarmValue_1": {
+        "message": "总是"
+    },
+    "configurationVTXLowPowerDisarmValue_2": {
+        "message": "直到第一次解锁"
+    },
+    "portsHelp": {
+        "message": "<strong>注意：</strong>并非所有组合都有效。 当飞控固件检测到这一点时，串口配置将被重置。"
+    },
+    "portsMSPHelp": {
+        "message": "<strong>注意：</strong><span style=\"color: red\">不要</span>禁用第一个串行端口上的 MSP，除非您确定知道这样做的目的，否则您可能需要重新更新固件并且清空配置"
+    },
+    "portsFirmwareUpgradeRequired": {
+        "message": "<span style=\"color: red\">必需</span> 更新固件。"
+    },
+    "portsButtonSave": {
+        "message": "储存并重启"
+    },
+    "portsTelemetryDisabled": {
+        "message": "关闭"
+    },
+    "portsFunction_MSP": {
+        "message": "MSP"
+    },
+    "portsFunction_GPS": {
+        "message": "GPS"
+    },
+    "portsFunction_RANGEFINDER": {
+        "message": "测距仪"
+    },
+    "portsFunction_OPFLOW": {
+        "message": "光流"
+    },
+    "portsFunction_ESC": {
+        "message": "电调输出/数传"
+    },
+    "portsFunction_TELEMETRY_FRSKY": {
+        "message": "FrSky"
+    },
+    "portsFunction_TELEMETRY_HOTT": {
+        "message": "HoTT"
+    },
+    "portsFunction_TELEMETRY_LTM": {
+        "message": "LTM"
+    },
+    "portsFunction_TELEMETRY_MAVLINK": {
+        "message": "MAVLink"
+    },
+    "portsFunction_TELEMETRY_IBUS": {
+        "message": "IBUS"
+    },
+    "portsFunction_GSM_SMS": {
+        "message": "GSM SMS"
+    },
+    "portsFunction_TELEMETRY_MSP": {
+        "message": "MSP"
+    },
+    "portsFunction_TELEMETRY_SMARTPORT": {
+        "message": "SmartPort"
+    },
+    "portsFunction_SMARTPORT_MASTER": {
+        "message": "SmartPort Master"
+    },
+    "portsFunction_RX_SERIAL": {
+        "message": "Serial RX"
+    },
+    "portsFunction_BLACKBOX": {
+        "message": "黑匣子"
+    },
+    "portsFunction_RUNCAM_DEVICE_CONTROL": {
+        "message": "运动相机装置"
+    },
+    "portsFunction_TBS_SMARTAUDIO": {
+        "message": "TBS SmartAudio"
+    },
+    "portsFunction_IRC_TRAMP": {
+        "message": "IRC Tramp"
+    },
+    "portsFunction_VTX_FFPV": {
+        "message": "FuriousFPV Vtx"
+    },
+    "portsFunction_FRSKY_OSD": {
+        "message": "FrSky OSD"
+    },
+    "portsFunction_DJI_FPV": {
+        "message": "DJI FPV 图传"
+    },
+    "portsFunction_IMU2": {
+        "message": "二级惯性测量单元"
+    },
+    "pidTuningName": {
+        "message": "名称"
+    },
+    "pidTuningProportional": {
+        "message": "比例 (Proportional)"
+    },
+    "pidTuningIntegral": {
+        "message": "积分 (Integral)"
+    },
+    "pidTuningDerivative": {
+        "message": "微分 （Derivative）"
+    },
+    "pidTuningFeedForward": {
+        "message": "前馈"
+    },
+    "pidTuningControlDerivative": {
+        "message": "控制导数"
+    },
+    "pidTuningRollPitchRate": {
+        "message": "滚转 &amp; 俯仰速率"
+    },
+    "pidTuningRollRate": {
+        "message": "滚转率"
+    },
+    "pidTuningPitchRate": {
+        "message": "俯仰率"
+    },
+    "pidTuningYawRate": {
+        "message": "偏航率"
+    },
+    "pidTuningMaxRollAngle": {
+        "message": "最大滚转角度"
+    },
+    "pidTuningMaxRollAngleHelp": {
+        "message": "自稳模式时的最大滚转角度，这同时也会限制导航模式时的最大滚转角度"
+    },
+    "pidTuningMaxPitchAngle": {
+        "message": "最大俯仰角度"
+    },
+    "pidTuningMaxPitchAngleHelp": {
+        "message": "自稳模式时的最大俯仰角度，这同时也会限制导航模式时的最大俯仰角度"
+    },
+    "pidTuningManualRollRate": {
+        "message": "手动滚转率"
+    },
+    "pidTuningManualPitchRate": {
+        "message": "手动俯仰率"
+    },
+    "pidTuningManualYawRate": {
+        "message": "手动偏航率"
+    },
+    "magHoldYawRate": {
+        "message": "罗盘定向率"
+    },
+    "pidTuningMagHoldYawRateHelp": {
+        "message": "权重控制器可以向无人机请求的最大偏航转速。 仅在启用 权重控制模式、自动返航和 航点模式 导航期间使用。 低于 30dps 的值会进行比较柔和的转弯"
+    },
+    "pidTuningTPA": {
+        "message": "推力 PID 衰减 (TPA)"
+    },
+    "pidTuningTPABreakPoint": {
+        "message": "TPA 中断点"
+    },
+    "pidTuningButtonSave": {
+        "message": "保存"
+    },
+    "pidTuningButtonRefresh": {
+        "message": "刷新"
+    },
+    "pidTuningProfileHead": {
+        "message": "配置档"
+    },
+    "pidTuningLoadedProfile": {
+        "message": "载入配置档 : <strong style=\"color: #37a8db\">$1</strong>"
+    },
+    "loadedBatteryProfile": {
+        "message": "载入电池配置档 : <strong style=\"color: #37a8db\">$1</strong>"
+    },
+    "pidTuningDataRefreshed": {
+        "message": "PID 资料 <span style=\"font-weight: bold\">刷新</span>"
+    },
+    "pidTuningEepromSaved": {
+        "message": "可擦写存储器 <span style=\"color: #37a8db\">已储存</span>"
+    },
+
+    "receiverHelp": {
+        "message": "请参阅文档中有关接收器的章节，配置串接端口(如果需要)，接收器模式(serial、PPM、PWM)，提供者 (串接端口)，接收器对频，设置通道映射，配置通道信号的终点和范围，让所有通道信号范围在 1000 ~ 2000，设置中位值(默认 1500)，将通道信号微调到 1500，配置死区范围<br /><span style=\"color: red\">重要 :</span> 在飞行前参阅文档中有关失控保护的章节并且设置失控保护功能"
+    },
+    "receiverThrottleMid": {
+        "message": "油门中位"
+    },
+    "receiverThrottleExpo": {
+        "message": "油门曲线"
+    },
+    "receiverRcRate": {
+        "message": "遥控器速率"
+    },
+    "receiverDeadband": {
+        "message": "遥控器死区"
+    },
+    "receiverHelpDeadband": {
+        "message": "遥控器输入信号在被认定为有效值之前可允许多大的变化量， 对于输出有抖动的发射器，如果 rc 输入在空闲（没有操作遥控器）时抖动，则可以增加此值。"
+    },
+    "receiverHelpYawDeadband": {
+        "message": "遥控器输入信号在被认定为有效值之前可允许多大的变化量，如果在没有操作遥控器时有抖舵的现象，可增加此设置值。<span style=\"font-weight: bold\">这项设置只针对偏航</span>"
+    },
+    "receiverYawDeadband": {
+        "message": "偏航死区"
+    },
+    "receiverRcExpo": {
+        "message": "遥控器曲线"
+    },
+    "receiverRcYawExpo": {
+        "message": "遥控器偏航曲线"
+    },
+    "receiverManualRcExpo": {
+        "message": "手动遥控曲线"
+    },
+    "receiverManualRcYawExpo": {
+        "message": "手动遥控偏航曲线"
+    },
+    "receiverChannelMap": {
+        "message": "通道映射"
+    },
+    "receiverChannelMapTitle": {
+        "message": "您可以透过勾选方格来设置您自己的通道映射"
+    },
+    "receiverRssiChannel": {
+        "message": "RSSI （信号质量）通道"
+    },
+    "receiverRefreshRateTitle": {
+        "message": "图形刷新速率"
+    },
+    "receiverButtonSave": {
+        "message": "保存"
+    },
+    "receiverButtonRefresh": {
+        "message": "刷新"
+    },
+    "receiverButtonSticks": {
+        "message": "控制摇杆"
+    },
+    "receiverDataRefreshed": {
+        "message": "遥控器调整资料 <span style=\"font-weight: bold\">已刷新</span>"
+    },
+    "receiverEepromSaved": {
+        "message": "可擦写存储器 <span style=\"color: #37a8db\">已储存</span>"
+    },
+
+    "auxiliaryHelp": {
+        "message": "设置遥控器上的开关范围并且配置对应的功能，当接收器通道信号介于范围内时将启动该功能，请记得使用储存键来保存您的设置"
+    },
+    "auxiliaryMin": {
+        "message": "最小"
+    },
+    "auxiliaryMax": {
+        "message": "最大"
+    },
+    "auxiliaryAddRange": {
+        "message": "增加范围"
+    },
+    "auxiliaryButtonSave": {
+        "message": "保存"
+    },
+    "auxiliaryEepromSaved": {
+        "message": "可擦写存储器 <span style=\"color: #37a8db\">已储存</span>"
+    },
+
+    "adjustmentsHelp": {
+        "message": "配置调整开关。请参阅文档中有关飞行中调整的章节，调整功能所做的变更不会自动储存，总共有 4 个通道，每个开关都需要有各自的通道"
+    },
+    "adjustmentsExamples": {
+        "message": "示例"
+    },
+    "adjustmentsExample1": {
+        "message": "使用通道1和CH5上的3位开关在俯仰/滚转 P、I 和 D 之间进行选择，并使用CH6上的另一个3位开关在按住时增加或减小值。"
+    },
+    "adjustmentsExample2": {
+        "message": "使用2段开关和CH8上的3段开关开关通过同一通道上的同一3段开关选择启用速率配置文件选择。"
+    },
+    "adjustmentsColumnEnable": {
+        "message": "如果开启"
+    },
+    "adjustmentsColumnUsingSlot": {
+        "message": "使用通道"
+    },
+    "adjustmentsColumnWhenChannel": {
+        "message": "这个通道"
+    },
+    "adjustmentsColumnIsInRange": {
+        "message": "在此范围"
+    },
+    "adjustmentsColumnThenApplyFunction": {
+        "message": "则启用功能"
+    },
+    "adjustmentsColumnViaChannel": {
+        "message": "通过通道"
+    },
+    "adjustmentsSlot0": {
+        "message": "1号通道"
+    },
+    "adjustmentsSlot1": {
+        "message": "2号通道"
+    },
+    "adjustmentsSlot2": {
+        "message": "3号通道"
+    },
+    "adjustmentsSlot3": {
+        "message": "4号通道"
+    },
+    "adjustmentsMin": {
+        "message": "最小"
+    },
+    "adjustmentsMax": {
+        "message": "最大"
+    },
+    "adjustmentsFunction0": {
+        "message": "没有变更"
+    },
+    "adjustmentsFunction1": {
+        "message": "遥控器速率调整"
+    },
+    "adjustmentsFunction2": {
+        "message": "遥控器曲线调整"
+    },
+    "adjustmentsFunction3": {
+        "message": "油门曲线调整"
+    },
+    "adjustmentsFunction4": {
+        "message": "俯仰 & 滚转速率调整"
+    },
+    "adjustmentsFunction5": {
+        "message": "偏航率调整"
+    },
+    "adjustmentsFunction6": {
+        "message": "俯仰 & 滚转 P （比例）调整"
+    },
+    "adjustmentsFunction7": {
+        "message": "俯仰 & 滚转 I （积分）调整"
+    },
+    "adjustmentsFunction8": {
+        "message": "俯仰 & 滚转 D 调整"
+    },
+    "adjustmentsFunction9": {
+        "message": "俯仰 & 滚转 CD/FF 调整"
+    },
+    "adjustmentsFunction10": {
+        "message": "俯仰 P （比例）调整"
+    },
+    "adjustmentsFunction11": {
+        "message": "俯仰 I（积分）调整"
+    },
+    "adjustmentsFunction12": {
+        "message": "俯仰 D（微分）调整"
+    },
+    "adjustmentsFunction13": {
+        "message": "俯仰 CD/FF 调整"
+    },
+    "adjustmentsFunction14": {
+        "message": "滚转 P （比例）调整"
+    },
+    "adjustmentsFunction15": {
+        "message": "滚转 I（积分）调整"
+    },
+    "adjustmentsFunction16": {
+        "message": "滚转 D（微分）调整"
+    },
+    "adjustmentsFunction17": {
+        "message": "滚转 CD/FF 调整"
+    },
+    "adjustmentsFunction18": {
+        "message": "偏航 P（比例）调整"
+    },
+    "adjustmentsFunction19": {
+        "message": "偏航 I（积分）调整"
+    },
+    "adjustmentsFunction20": {
+        "message": "偏航 D（微分）调整"
+    },
+    "adjustmentsFunction21": {
+        "message": "偏航 CD/FF 调整"
+    },
+    "adjustmentsFunction22": {
+        "message": "速率配置文件选择"
+    },
+    "adjustmentsFunction23": {
+        "message": "俯仰速率"
+    },
+    "adjustmentsFunction24": {
+        "message": "滚转速率"
+    },
+    "adjustmentsFunction25": {
+        "message": "遥控偏航曲线调整"
+    },
+    "adjustmentsFunction26": {
+        "message": "手动遥控比率指数曲线调整"
+    },
+    "adjustmentsFunction27": {
+        "message": "手动遥控偏航比率指数曲线调整"
+    },
+    "adjustmentsFunction28": {
+        "message": "手动俯仰 & 滚转速率调整"
+    },
+    "adjustmentsFunction29": {
+        "message": "手动滚转速率调整"
+    },
+    "adjustmentsFunction30": {
+        "message": "手动俯仰速率调整"
+    },
+    "adjustmentsFunction31": {
+        "message": "手动偏航速率调整"
+    },
+    "adjustmentsFunction32": {
+        "message": "固定翼导航巡航油门调整"
+    },
+    "adjustmentsFunction33": {
+        "message": "固定翼导航俯仰到油门调整"
+    },
+    "adjustmentsFunction34": {
+        "message": "飞控板滚转角度对齐调整"
+    },
+    "adjustmentsFunction35": {
+        "message": "飞控板俯仰角度对齐调整"
+    },
+    "adjustmentsFunction36": {
+        "message": "水平 P（比例）调整"
+    },
+    "adjustmentsFunction37": {
+        "message": "水平 I（积分）调整"
+    },
+    "adjustmentsFunction38": {
+        "message": "水平 D（微分）调整"
+    },
+    "adjustmentsFunction39": {
+        "message": "XY轴 P （比例）调整"
+    },
+    "adjustmentsFunction40": {
+        "message": "XY轴 I（积分）调整"
+    },
+    "adjustmentsFunction41": {
+        "message": "XY轴 D（微分）调整"
+    },
+    "adjustmentsFunction42": {
+        "message": "Z轴 P（比例）调整"
+    },
+    "adjustmentsFunction43": {
+        "message": "Z轴 I（积分）调整"
+    },
+    "adjustmentsFunction44": {
+        "message": "Z轴 D（微分）调整"
+    },
+    "adjustmentsFunction45": {
+        "message": "航向 P（比例）调整"
+    },
+    "adjustmentsFunction46": {
+        "message": "XY轴水平 P （比例）调整"
+    },
+    "adjustmentsFunction47": {
+        "message": "XY轴水平 I（积分）调整"
+    },
+    "adjustmentsFunction48": {
+        "message": "XY轴水平 D（微分）调整"
+    },
+    "adjustmentsFunction49": {
+        "message": "Z轴水平 P （比例）调整"
+    },
+    "adjustmentsFunction50": {
+        "message": "Z轴水平 I（积分）调整"
+    },
+    "adjustmentsFunction51": {
+        "message": "Z轴水平 D（微分）调整"
+    },
+    "adjustmentsFunction52": {
+        "message": "FW最小油门下俯仰角调整"
+    },
+    "adjustmentsFunction53": {
+        "message": "图传功率电平调整"
+    },
+    "adjustmentsFunction54": {
+        "message": "推力PID衰减 (TPA) 调整"
+    },
+    "adjustmentsFunction55": {
+        "message": "TPA断点调整"
+    },
+    "adjustmentsFunction56": {
+        "message": "控制平滑度调整"
+    },
+    "adjustmentsSave": {
+        "message": "保存"
+    },
+    "adjustmentsEepromSaved": {
+        "message": "可擦存储器 <span style=\"color: #37a8db\">已保存</span>"
+    },
+
+    "transponderNotSupported": {
+        "message": "您的飞行控制器固件不支持转发器功能。"
+    },
+    "transponderHelp": {
+        "message": "在此处配置您的转发器代码。 注意：比赛计时系统只能识别有效代码。 有效的转发器代码可以从<a href=\"http://seriouslypro.com/transponder-codes\" target=\"_blank\">查询</a>."
+    },
+    "transponderInformation": {
+        "message": "转发器系统允许比赛组织者为您的圈数计时。 应答器安装在您的飞机上，当您的飞机通过计时门时，轨道侧接收器会注册您的代码并记录您的单圈时间。在安装基于IR的转发器时，您应该确保它从您的飞机向外指向轨道侧接收器，并且光束不会被您的机身、电池带、电缆、螺旋桨等阻挡。"
+    },
+    "transponderConfiguration": {
+        "message": "配置"
+    },
+    "transponderData": {
+        "message": "资料"
+    },
+    "transponderDataHelp": {
+        "message": "仅十六进制数字, 0-9, A-F"
+    },
+    "transponderButtonSave": {
+        "message": "保存"
+    },
+    "transponderDataInvalid": {
+        "message": "转发器数据<span style=\"color: red\">无效</span>"
+    },
+    "transponderEepromSaved": {
+        "message": "可擦写存储器 <span style=\"color: #37a8db\">已保存</span>"
+    },
+    "servosChangeDirection": {
+        "message": "改变发射器方向以匹配"
+    },
+    "servosName": {
+        "message": "名称"
+    },
+    "servosMid": {
+        "message": "中位值"
+    },
+    "servosMin": {
+        "message": "最小值"
+    },
+    "servosMax": {
+        "message": "最大值"
+    },
+    "servosReverse": {
+        "message": "反向"
+    },
+    "servoOutput": {
+        "message": "输出"
+    },
+    "servosRate": {
+        "message": "速率 (%)"
+    },
+    "servosLiveMode": {
+        "message": "开启即时模式"
+    },
+    "servosButtonSave": {
+        "message": "保存"
+    },
+    "servosNormal": {
+        "message": "一般"
+    },
+    "servoEmptyTableInfo": {
+        "message": "没有配置舵机，请到混控页签内增加"
+    },
+    "servosEepromSave": {
+        "message": "可擦写存储器 <span style=\"color: #37a8db\">已保存</span>"
+    },
+    "mixerSaved": {
+        "message": "混控 <span style=\"color: #37a8db\">已保存</span>"
+    },
+    "mixerWizard": {
+        "message": "混控向导"
+    },
+    "mixerWizardInfo": {
+        "message":"<ol><li>卸下螺旋桨</li><li>连接锂电池并使用“输出”选项卡测试所有电机</li><li>注意每个电机的位置（电机 #1 - 左上等）< /li><li>填写下表</li></ol>"
+    },
+    "gpsHead": {
+        "message": "GPS"
+    },
+    "gpsStatHead": {
+        "message": "GPS 统计"
+    },
+    "gpsMapHead": {
+        "message": "GPS 目前位置"
+    },
+    "gpsMapMessage1": {
+        "message": "请检查您的网络连接"
+    },
+    "gpsMapMessage2": {
+        "message": "GPS 定位中 ..."
+    },
+    "gpsFix": {
+        "message": "定位类型 :"
+    },
+    "gpsFix2D": {
+        "message": "<span class=\"fix2d\">2D</span>"
+    },
+    "gpsFix3D": {
+        "message": "<span class=\"fix3d\">3D</span>"
+    },
+    "gpsFixNone": {
+        "message": "<span class=\"fixnone\">无</span>"
+    },
+    "gpsAltitude": {
+        "message": "高度 :"
+    },
+    "gpsLat": {
+        "message": "纬度 :"
+    },
+    "gpsLon": {
+        "message": "经度 :"
+    },
+    "gpsSpeed": {
+        "message": "速度 :"
+    },
+    "gpsSats": {
+        "message": "卫星 :"
+    },
+    "gpsDistToHome": {
+        "message": "离起飞点距离 :"
+    },
+    "gpsHDOP": {
+        "message": "水平精度因子 :"
+    },
+    "gpsTotalMessages": {
+        "message": "所有讯息 :"
+    },
+    "gpsMessageRate": {
+        "message": "更新时间 :"
+    },
+    "gpsErrors": {
+        "message": "错误 :"
+    },
+    "gpsTimeouts": {
+        "message": "超时 :"
+    },
+    "gpsEPH": {
+        "message": "水平定位精度 :"
+    },
+    "gpsEPV": {
+        "message": "垂直定位精度 :"
+    },
+    "gpsSignalStr": {
+        "message": "信号强度"
+    },
+    "motors": {
+        "message": "电机"
+    },
+    "servos": {
+        "message": "舵机"
+    },
+    "motorsMaster": {
+        "message": "主要"
+    },
+    "motorsNotice": {
+        "message": "<strong>电机测试模式注意：</strong><br />移动滑块会导致电机<strong>旋转</strong>。<br />为了防止伤害<strong style=\"color : red\">在使用此功能之前移除所有螺旋桨</strong>。"
+    },
+    "motorsEnableControl": {
+        "message": "我已了解风险，我已把桨移除 - 开启电机控制"
+    },
+
+    "sensorsInfo": {
+        "message": "请留意当使用较快的更新速率以及绘制多个图表时对于系统负担较大，如果您使用笔记型电脑也可能比较快消耗电池电量<br />我们建议只使用您有需要的传感器图表并且设置合理的更新速率"
+    },
+    "sensorsRefresh": {
+        "message": "更新 :"
+    },
+    "sensorsScale": {
+        "message": "比例 :"
+    },
+
+    "cliInfo": {
+        "message": "<strong>注意</strong>：离开 CLI 选项卡或按断开连接将<strong>自动</strong>发送退出指令到飞控板。 新固件将 <strong>重启 </strong>并且未保存的更改将 <strong>丢失</strong> 。"
+    },
+    "cliInputPlaceholder": {
+        "message": "在这里输入您的指令"
+    },
+    "cliEnter": {
+        "message": "CLI 模式检测"
+    },
+    "cliReboot": {
+        "message": "CLI 重启检测"
+    },
+    "cliSaveToFileBtn": {
+        "message": "另存新档"
+    },
+    "cliSaveToFileFailed": {
+        "message": "CLI 档案输出失败"
+    },
+    "cliSaveToFileAborted": {
+        "message": "CLI 档案输出终止"
+    },
+    "cliSaveToFileCompleted": {
+        "message": "CLI 档案输出成功"
+    },
+    "cliClearOutputHistoryBtn": {
+        "message": "清除输出历史"
+    },
+    "cliCopyToClipboardBtn": {
+        "message": "复制到剪贴版"
+    },
+    "cliCopySuccessful": {
+        "message": "已复制!"
+    },
+    "cliLoadFromFileBtn": {
+        "message": "从档案载入"
+    },
+    "cliConfirmSnippetDialogTitle": {
+        "message": "查看已载入的命令"
+    },
+    "cliConfirmSnippetNote": {
+        "message": "<strong>注意</strong> : 您可以在执行之前查看或编辑命令"
+    },
+    "cliConfirmSnippetBtn": {
+        "message": "执行"
+    },
+
+    "loggingNote": {
+        "message": "资料 <span style=\"color: red\">只有</span> 在这个页签会记录，离开这个页签将会 <span style=\"color: red\">取消记录</span> 并且程序回到 <span style=\"font-weight: bold\">\"一般配置\"</span> 状态<br />您可以自行选择更新速率，但是由于性能考量只会每隔 <strong>1</strong> 秒才将资料写入到日志档"
+    },
+    "loggingSamplesSaved": {
+        "message": "采样已保存:"
+    },
+    "loggingLogSize": {
+        "message": "日志容量:"
+    },
+    "loggingButtonLogFile": {
+        "message": "选择日志档案"
+    },
+    "loggingStart": {
+        "message": "开始记录"
+    },
+    "loggingStop": {
+        "message": "停止记录"
+    },
+    "loggingBack": {
+        "message": "退出记录 / 断开"
+    },
+    "loggingErrorNotConnected": {
+        "message": "首先您必需 <strong>链接</strong> "
+    },
+    "loggingErrorLogFile": {
+        "message": "请选择日志档案"
+    },
+    "loggingErrorOneProperty": {
+        "message": "请至少选择 1 个属性来记录"
+    },
+    "loggingAutomaticallyRetained": {
+        "message": "自动载入先前的日志档 :<strong>$1</strong>"
+    },
+    "blackboxNotSupported": {
+        "message": "您的飞控固件不支援黑匣子记录，或者黑匣子功能尚未开启"
+    },
+    "blackboxConfiguration": {
+        "message": "黑匣子配置"
+    },
+    "blackboxButtonSave": {
+        "message": "储存并重启"
+    },
+
+    "serialLoggingSupportedNote": {
+        "message": "您可以使用串行端口登录到外部日志记录设备（例如 OpenLog 或兼容设备）。 在端口选项卡上配置端口。"
+    },
+    "sdcardNote": {
+        "message": "飞行日志可以记录到飞控板上的 SD 储存卡"
+    },
+
+    "dataflashNote": {
+        "message": "飞行日志可以记录到飞控板上的记忆体晶片（内存）"
+    },
+    "dataflashNotPresentNote": {
+        "message": "您的飞控板上没有可用的记忆体晶片"
+    },
+    "dataflashFirmwareUpgradeRequired": {
+        "message": "记忆体晶片要求固件 &gt;= 1.8.0."
+    },
+    "dataflashButtonSaveFile": {
+        "message": "将闪存资料保存到文件..."
+    },
+    "dataflashButtonErase": {
+        "message": "清空闪存资料"
+    },
+    "dataflashConfirmEraseTitle": {
+        "message": "确认清空闪存资料"
+    },
+    "dataflashConfirmEraseNote": {
+        "message": "这将会清空闪存资料中的任何黑匣子日志和其它资料，这个过程大约耗时 20 秒，请确定?"
+    },
+    "dataflashSavingTitle": {
+        "message": "闪存资料正在储存到档案"
+    },
+    "dataflashSavingNote": {
+        "message": "可能需要几分钟来进行储存，请稍候"
+    },
+    "dataflashSavingNoteAfter": {
+        "message": "储存完成，请点选 \"确认\"。"
+    },
+    "dataflashButtonSaveCancel": {
+        "message": "取消"
+    },
+    "dataflashButtonSaveDismiss": {
+        "message": "确认"
+    },
+    "dataflashButtonEraseConfirm": {
+        "message": "是的，清空闪存资料"
+    },
+    "dataflashButtonEraseCancel": {
+        "message": "取消"
+    },
+    "dataflashFileWriteFailed": {
+        "message": "无法写入您指定的档案，是否有该资料夹的权限?"
+    },
+
+    "firmwareFlasherReleaseSummaryHead": {
+        "message": "发布资讯"
+    },
+    "firmwareFlasherReleaseName": {
+        "message": "名称 / 版本 :"
+    },
+    "firmwareFlasherReleaseVersionUrl": {
+        "message": "参阅发布页面"
+    },
+    "firmwareFlasherReleaseNotes": {
+        "message": "发布说明 :"
+    },
+    "firmwareFlasherReleaseDate": {
+        "message": "日期 :"
+    },
+    "firmwareFlasherReleaseStatus": {
+        "message": "状态 :"
+    },
+    "firmwareFlasherReleaseTarget": {
+        "message": "目标 :"
+    },
+    "firmwareFlasherReleaseFile": {
+        "message": "二进制："
+    },
+    "firmwareFlasherReleaseStatusReleaseCandidate": {
+        "message": "<span style=\"color: red\">重要提示：此固件版本目前被标记为开发者版本。 如有问题，请立即报告。</span>"
+    },
+    "firmwareFlasherReleaseFileUrl": {
+        "message": "手动下载"
+    },
+    "firmwareFlasherTargetWarning": {
+        "message": "<span style=\"color: red\">重要</span>：确保您刷写了适合您目标的文件。 为错误的目标刷写二进制文件可能会导致<span style=\"color: red\">非常坏（飞控无法正常运行）</span>的事情发生。"
+    },
+
+    "firmwareFlasherPath": {
+        "message": "路径 :"
+    },
+    "firmwareFlasherSize": {
+        "message": "容量 :"
+    },
+    "firmwareFlasherStatus": {
+        "message": "状态 :"
+    },
+    "firmwareFlasherProgress": {
+        "message": "进度 :"
+    },
+    "firmwareFlasherLoadFirmwareFile": {
+        "message": "请载入固件文件"
+    },
+    "firmwareFlasherNoReboot": {
+        "message": "没有重启程序"
+    },
+    "firmwareFlasherOnlineSelectBoardDescription": {
+
+        "message": "选择您的飞控板以便查看线上固件 - 选择适合您的飞控板固件"
+    },
+    "firmwareFlasherOnlineSelectFirmwareVersionDescription": {
+        "message": "选择您的飞控板固件版本"
+    },
+    "firmwareFlasherNoRebootDescription": {
+        "message": "如果通电时已经将 BootLoader 脚位短路，或者已按下飞控板上的 Boot 键，请开启此选项"
+    },
+    "firmwareFlasherFlashOnConnect": {
+        "message": "连接闪存文件"
+    },
+    "firmwareFlasherFlashOnConnectDescription": {
+        "message": "尝试自动烧录 (检测到新的端口时)."
+    },
+    "firmwareFlasherFullChipErase": {
+        "message": "清空所有资料"
+    },
+    "firmwareFlasherFullChipEraseDescription": {
+        "message": "清空目前所有在飞控板上的配置资料"
+    },
+    "firmwareFlasherFlashDevelopmentFirmware": {
+        "message": "使用开发版固件"
+    },
+    "firmwareFlasherFlashDevelopmentFirmwareDescription": {
+        "message": "写入最新的开发版固件(未经测试)"
+    },
+    "firmwareFlasherManualBaud": {
+        "message": "手动波特率"
+    },
+    "firmwareFlasherManualBaudDescription": {
+        "message": "当飞控板不支持默认的波特率或者透过蓝牙连线时，请手动选择波特率<br /><span style=\"color: red\">注意 :</span> 当通过 USB DFU 模式烧写时不要使用"
+    },
+    "firmwareFlasherShowDevelopmentReleases":{
+        "message": "显示测试版"
+    },
+    "firmwareFlasherShowDevelopmentReleasesDescription":{
+        "message": "显示版本 - 候选和开发版本"
+    },
+    "firmwareFlasherOptionLabelSelectFirmware": {
+        "message": "选择固件 / 飞控板"
+    },
+    "firmwareFlasherOptionLabelSelectBoard": {
+        "message": "选择飞控板"
+    },
+    "firmwareFlasherOptionLabelSelectFirmwareVersion": {
+        "message": "选择固件版本"
+    },
+    "firmwareFlasherOptionLabelSelectFirmwareVersionFor": {
+        "message": "选择固件版本"
+    },
+    "firmwareFlasherButtonLoadLocal": {
+        "message": "载入本机固件"
+    },
+    "firmwareFlasherButtonLoadOnline": {
+        "message": "载入线上固件"
+    },
+    "firmwareFlasherButtonLoading": {
+        "message": "载入中 ..."
+    },
+    "firmwareFlasherFlashFirmware": {
+        "message": "烧写固件"
+    },
+    "firmwareFlasherGithubInfoHead": {
+        "message": "Github 固件资讯"
+    },
+    "firmwareFlasherCommiter": {
+        "message": "修订 :"
+    },
+    "firmwareFlasherDate": {
+        "message": "日期 :"
+    },
+    "firmwareFlasherHash": {
+        "message": "校验 :"
+    },
+    "firmwareFlasherUrl": {
+        "message": "前往 GitHub 查阅修订 ..."
+    },
+    "firmwareFlasherMessage": {
+        "message": "讯息 :"
+    },
+    "firmwareFlasherWarningHead": {
+        "message": "警告"
+    },
+    "firmwareFlasherWarningText": {
+        "message": "请<span style=\"color: red\">不要</span>尝试用这个固件刷写<strong>不适用iNAV的硬件</strong>。<br /><span style=\"color : red\">不要</span> <strong>在刷写时断开飞控</strong>或<strong>关闭</strong>您的计算机。<br /><br /><strong>注意：</strong> STM32 bootloader 存储在ROM中，刷写固件飞控不会变砖。<br /><strong>注意：</strong><span style=\"color: red\">自动链接</span> 始终处于禁用状态。<br /><strong>注意：</strong>确保您有备份；某些升级/降级会清除您的配置。<br /><strong>注意：</strong>如果您在刷写时遇到问题，请先尝试断开所有电缆，然后尝试重新启动、升级Chrome浏览器、升级驱动程序。<br /><strong>注意：</strong> 刷写直接连接 USB 接口（SPRacingF3Mini、Sparky、ColibriRace 等）的飞控板时，请确保您已阅读 INAV 手册的 USB 刷写部分并安装了正确的软件和驱动程序"
+    },
+    "firmwareFlasherRecoveryHead": {
+        "message": "<strong>恢复 / 失去通信<strong>"
+    },
+    "firmwareFlasherRecoveryText": {
+        "message": "如果您与飞控板失去通信，请按照以下步骤恢复通信：<ul><li>关闭电源</li><li>启用“无重启序列”，启用“没有重启程序 & 清空所有资料”。</li><li >短接 BOOT 引脚或按住 BOOT 按钮。</li><li>开机（如果操作正确，活动 LED 不会闪烁）。</li><li>如果需要，安装所有 STM32 驱动程序和 Zadig（请参阅<a href =\"https://github.com/iNavFlight/inav/blob/master/docs/USB%20Flashing.md\"target=\"_blank\">INAV 手册的 USB 闪存</a>部分）。</ li><li>关闭配置器，关闭所有正在运行的 Chrome 浏览器和外挂程序，关闭所有与Chrome有关的应用程序，重新启动配置器。</li><li>如果您的飞控板有启动按钮，请释放BOOT按钮。</li><li>用正确的固件刷入（ 如果您的飞控手册中有指定波特率设置，则使用手动波特率。</li><li>关闭电源。</li><li>移除BOOT跳线。</li><li>打开电源（活动 LED 应闪烁）。</li><li>正常连接。【小念汉化】</li></ul>"
+    },
+    "firmwareFlasherButtonLeave": {
+        "message": "退出固件烧写器"
+    },
+    "firmwareFlasherFirmwareNotLoaded": {
+        "message": "尚未载入固件"
+    },
+    "firmwareFlasherHexCorrupted": {
+        "message": "HEX 档案似乎已损坏"
+    },
+    "firmwareFlasherRemoteFirmwareLoaded": {
+        "message": "<span style=\"color: #37a8db\">在线固件已载入，准备烧写</span>"
+    },
+    "firmwareFlasherFailedToLoadOnlineFirmware": {
+        "message": "在线固件载入失败"
+    },
+
+    "ledStripHelp": {
+        "message": "飞控可以控制条带上单个LED的颜色和效果。<br />在网格上配置LED，配置布线顺序，然后根据网格位置在您的飞机上安装LED。 没有线序编号的 LED 将不会被保存。<br />双击颜色可编辑 HSV 值。"
+    },
+    "ledStripButtonSave": {
+        "message": "保存"
+    },
+    "ledStripEepromSaved": {
+        "message": "可擦写存储器 <span style=\"color: #37a8db\">已保存</span>"
+    },
+
+    "controlAxisRoll": {
+        "message": "滚转 [A]"
+    },
+    "controlAxisPitch": {
+        "message": "俯仰 [E]"
+    },
+    "controlAxisYaw": {
+        "message": "偏航 [R]"
+    },
+    "controlAxisThrottle": {
+        "message": "油门 [T]"
+    },
+    "radioChannelShort": {
+        "message": "CH "
+    },
+    "pidTuningBasic": {
+        "message": "基础 / 手动 (Acro)"
+    },
+    "pidTuningLevel": {
+        "message": "自稳(Angle) / 半自稳 (Horizon)"
+    },
+    "pidTuningAltitude": {
+        "message": "气压计 & 声纳 / 高度"
+    },
+    "pidTuningMag": {
+        "message": "罗盘 / 航向"
+    },
+    "pidTuningGps": {
+        "message": "GPS 导航"
+    },
+    "pidTuningLevelP": {
+        "message": "强度"
+    },
+    "pidTuningLevelI": {
+        "message": "低通滤波器频率 (Hz)"
+    },
+    "pidTuningLevelD": {
+        "message": "过渡/半自稳 (姿态模式) (Horizon)"
+    },
+    "pidTuningLevelHelp": {
+        "message": "以下数值可改变自稳(Angle) 和半自稳(Horizon) 飞行模式的行为，不同的 PID 控制器会处理不同层级的数值，请参阅文档说明"
+    },
+    "configHelp2": {
+        "message": "飞控板可使用任意角度安装，例如侧面、反面、旋转角度等等 ...<br />当使用外部传感器时，使用传感器调整(陀螺仪、加速计、罗盘) 来设置独立于飞控板以外的传感器位置 "
+    },
+    "failsafeFeaturesHelpOld": {
+        "message": "使用新版 iNav，失控保护设置有很大的不同"
+    },
+    "failsafePaneTitleOld": {
+        "message": "接收器失控保护"
+    },
+    "failsafeFeatureItemOld": {
+        "message": "失去接收器信号时的失控保护设置"
+    },
+    "failsafeThrottleItemOld": {
+        "message": "油门失控保护"
+    },
+    "failsafeFeaturesHelpNew": {
+        "message": "失控保护有两个阶段<br /><span style=\"font-weight: bold\">第 1 阶段</span> 是飞行通道出现无效数值或完全没有接收器信号时，接收器发出失控保护模式或者<span style=\"color: red\">所有通道</span> 将退回到救援设置并且等候一个较短的时间，以便恢复信号<br /><span style=\"font-weight: bold\">第 2 阶段</span> 是当错误情况比配置的时间还要长的时候，即便飞行器处于 <span style=\"color: red\">解锁状态</span>，所有通道将保持在救援设置状态，除非被选择的程序拒绝<br /><span style=\"font-weight: bold\">注意 :</span> 在进入第 1 阶段之前，通道救援设置也适用于其它无效数值的遥控器通道"
+    },
+    "failsafePulsrangeTitle": {
+        "message": "有效数值的设置范围"
+    },
+    "failsafePulsrangeHelp": {
+        "message": "小于最小值或大于最大值的数值都无效，并且将会触发遥控器通道的救援设置，或是进入救援设置的第 1 阶段"
+    },
+    "failsafeRxMinUsecItem": {
+        "message": "最小数值"
+    },
+    "failsafeRxMaxUsecItem": {
+        "message": "最大数值"
+    },
+    "failsafeChannelFallbackSettingsTitle": {
+        "message": "救援通道设置"
+    },
+    "failsafeChannelFallbackSettingsHelp": {
+        "message": "当进入第 1 阶段时，这些设置将适用于无效的遥控器通道或所有通道，<strong>注意 :</strong> 每 25 微秒会储存数值，所以更小的变更将会遗失"
+    },
+    "failsafeChannelFallbackSettingsAuto": {
+        "message": "<strong>自动 :</strong> 表示滚转、俯仰和偏航会切到中位并且油门低位，<strong>保持 :</strong> 表示会维持最后收到信号的数值"
+    },
+    "failsafeChannelFallbackSettingsHold": {
+        "message": "<strong>保持 :</strong> 表示会维持最后收到信号的数值， <strong>设置 :</strong> 表示会使用这里设置的数值"
+    },
+    "failsafeStageTwoSettingsTitle": {
+        "message": "设置"
+    },
+    "failsafeFeatureItem": {
+        "message": "开启"
+    },
+    "failsafeFeatureHelp": {
+        "message": "<strong>注意 :</strong>  当关闭第 2 阶段，会在所有飞行通道(滚转、俯仰、偏航、油门) 使用<strong>自动</strong>的救援设置，而不是使用者的设置 (滚转, 俯仰, 偏航 和油门)."
+    },
+    "failsafeDelayItem": {
+        "message": "失去信号之后等待多久时间触发失控保护 (1 = 0.1秒)"
+    },
+    "failsafeDelayHelp": {
+        "message": "第 1 阶段等待恢复的时间"
+    },
+    "failsafeThrottleItem": {
+        "message": "着陆时使用的油门值"
+    },
+    "failsafeOffDelayItem": {
+        "message": "在失控保护期间关闭电机的延迟时间 (1 = 0.1秒)"
+    },
+    "failsafeOffDelayHelp": {
+        "message": "停留在着陆模式直到电机关闭且飞行器上锁的时间"
+    },
+    "failsafeSubTitle1": {
+        "message": "程序"
+    },
+    "failsafeProcedureItemSelect1": {
+        "message": "降落"
+    },
+    "failsafeProcedureItemSelect2": {
+        "message": "掉落"
+    },
+    "failsafeProcedureItemSelect3": {
+        "message": "自动返航"
+    },
+    "failsafeProcedureItemSelect4": {
+        "message": "不鸟它，让它炸"
+    },
+    "failsafeKillSwitchItem": {
+        "message": "失控自毁键(KillSwitch)（在触发失控保护时立即解除飞机防护（在失控保护时立刻上锁））【注意！设置此项后，失控保护将失去作用，失去控制时会直接将飞机上锁，飞机将原地坠落！by 小念】原文为【Failsafe Kill Switch (instantly disarm aircraft on failsafe)】"
+    },
+    "failsafeKillSwitchHelp": {
+        "message": "设置此选项来建立失控自毁键(KillSwitch) 在模式页签中配置，做为自毁开关，以便绕过失控保护程序 <strong>注意 :</strong> 当失控自毁键处于开启状态时将无法解锁"
+    },
+    "failsafeUseMinimumDistanceItem": {
+        "message": "当靠近起飞点时使用备用的最小距离失控保护程序"
+    },
+    "failsafeUseMinimumDistanceHelp": {
+        "message": "如果您需要在飞行器靠近起飞点时有备用的失控保护程序则设置此选项，例如飞行器因着陆造成机翼脱落时，或是当飞行时不再需要一般的自返失控保护程序时"
+    },
+    "failsafeMinDistanceItem": {
+        "message": "失控保护最小距离 (cm)"
+    },
+    "failsafeMinDistanceHelp": {
+        "message": "当距离起飞地点介于 0 ~ 最小距离之间时会使用备用失控保护程序，例如设置 2000(20 米) 并且飞行器距离起飞地点 13 米处，此时会使用最小距离失控保护程序，当飞行器距离起飞地点 25 米处则会使用一般的失控保护程序，如果设置 0 则一律使用一般的失控保护程序 "
+    },
+    "failsafeMinDistanceProcedureItem": {
+        "message": "最小距离失控保护程序"
+    },
+    "failsafeMinDistanceProcedureHelp": {
+        "message": "当飞行器距离起飞点在最小距离内时会使用这个失控保护程序"
+    },
+    "mainHelpArmed": {
+        "message": "电机解锁"
+    },
+    "mainHelpFailsafe": {
+        "message": "失控保护模式"
+    },
+    "mainHelpLink": {
+        "message": "串接端口状态"
+    },
+    "warning": {
+        "message": "警告"
+    },
+    "escProtocol": {
+        "message": "电调协议"
+    },
+    "escRefreshRate": {
+        "message" : "电调更新速率"
+    },
+    "escProtocolHelp": {
+        "message" : "电调救援所选通信协议，如果您知道电调有救援时才变更"
+    },
+    "escRefreshRatelHelp": {
+        "message" : "电调救援所选更新速率，如果您知道电调有救援时才变更"
+    },
+    "servoRefreshRate": {
+        "message" : "舵机更新速率"
+    },
+    "servoRefreshRatelHelp": {
+        "message" : "舵机救援所选更新速率，如果您知道舵机有支援时才变更，太高的更新速率可能会损坏舵机"
+    },
+    "logPwmOutputDisabled": {
+        "message" : "PWM 输出已关闭，电机和舵机不会动作。 在<u>配置</u>标签页中开启"
+    },
+    "configurationGyroSyncTitle": {
+        "message" : "陀螺仪同步回圈时间"
+    },
+    "configurationGyroLpfTitle": {
+        "message" : "陀螺仪低通滤波截止频率"
+    },
+    "configurationGyroSyncDenominator": {
+        "message" : "陀螺仪分母"
+    },
+    "yawJumpPreventionLimit": {
+        "message": "偏航跳跃预防"
+    },
+    "yawJumpPreventionLimitHelp": {
+        "message": "当停止偏航或快速的偏航指令时防止偏航跳跃，设置 500 可关闭。如果您的飞行器有打滑现象可尝试调整此选项，较高的数值可让偏航动作比较灵敏，但是如果动力不足可能导致俯仰和滚转不稳定，较低的数值可让偏航动作比较柔和，但可能让飞行器无法保持航向"
+    },
+    "yawPLimit": {
+        "message": "偏航 P 限制"
+    },
+    "yawPLimitHelp": {
+        "message": "偏航 P 增益限制，较高的数值可让偏航动作比较灵敏，但是可能导致俯仰和滚转不稳定"
+    },
+    "tabFiltering": {
+        "message": "滤波"
+    },
+    "gyroLpfCutoffFrequency": {
+        "message": "陀螺仪低通滤波截止频率"
+    },
+    "gyroLpfCutoffFrequencyHelp": {
+        "message": "软件滤波器，用于消除陀螺仪信号的共振，设置数值是截止频率。对于较大的飞行器或大桨设置较低的数值，太高的数值可能导致电机或电调过热"
+    },
+    "accLpfCutoffFrequency": {
+        "message": "加速计低通滤波截止频率"
+    },
+    "accLpfCutoffFrequencyHelp": {
+        "message": "软件滤波器，用于消除加速计信号的共振，设置数值是截止频率。对于较大的飞行器或大桨应设置较低的数值"
+    },
+    "dtermLpfCutoffFrequency": {
+        "message": "D 增益低通滤波截止频率"
+    },
+    "dtermLpfCutoffFrequencyHelp": {
+        "message": "适用所有 PID 控制器的 D 增益低通截止滤波"
+    },
+    "yawLpfCutoffFrequency": {
+        "message": "偏航低通滤波截止频率"
+    },
+    "yawLpfCutoffFrequencyHelp": {
+        "message": "偏航 P 增益低通滤波截止频率"
+    },
+    "rollPitchItermIgnoreRate": {
+        "message": "滚转 / 俯仰 I 增益忽略速率"
+    },
+    "rollPitchItermIgnoreRateHelp": {
+        "message": "高于此运转速率时忽略 PID I 增益。防止过程中累积 I 增益"
+    },
+    "yawItermIgnoreRate": {
+        "message": "偏航 I 增益忽略速率"
+    },
+    "yawItermIgnoreRateHelp": {
+        "message": "高于此运转速率时忽略 PID I 增益。防止过程中累积 I 增益"
+    },
+    "axisAccelerationLimitRollPitch": {
+        "message": "滚转 / 俯仰加速限制"
+    },
+    "axisAccelerationLimitRollPitchHelp": {
+        "message": "这是允许飞行员对无人机要求的最大角加速度。无人机应该能够满足这个加速度。根据经验，无人机越大，它可以处理的加速度越低。即无人机越大，则加速度应越低。"
+    },
+    "axisAccelerationLimitYaw": {
+        "message": "偏航加速限制"
+    },
+    "axisAccelerationLimitYawHelp": {
+        "message": "这是允许飞行员对无人机要求的最大角加速度。无人机应该能够满足这个加速度。根据经验，无人机越大，它可以处理的加速度越低。即无人机越大，则加速度应越低。"
+    },
+    "pidTuningTPAHelp": {
+        "message": "油门PID衰减系数，PID增益会从0到TPA中断点到最大油门TPA系数线性减少"
+    },
+    "pidTuningTPABreakPointHelp": {
+        "message": "当油门超过此数值时，油门PID开始衰减 "
+    },
+    "configurationAsyncMode": {
+        "message": "非同步模式"
+    },
+    "configurationGyroFrequencyTitle": {
+        "message": "陀螺仪任务频率"
+    },
+    "configurationAccelerometerFrequencyTitle": {
+        "message": "加速计任务频率"
+    },
+    "configurationAttitudeFrequencyTitle": {
+        "message": "高度计任务频率"
+    },
+    "configurationGyroLpfHelp": {
+        "message": "陀螺仪硬件截止频率，一般来说较大的数值会比较好，但是飞行器对于震动会比较敏感"
+    },
+    "configurationAsyncModeHelp": {
+        "message": "参阅固件文档中的 \"Looptime\" 说明"
+    },
+    "configurationGyroFrequencyHelp": {
+        "message": "一般来说较大的数值会比较好，但是飞行器对于震动会比较敏感，应该保持在飞控主程序回圈运算速度所设置的频率以上，最大的数值取决于硬件能力，如果设置值太高可能让飞控无法运行，可查看CPU使用率"
+    },
+    "configurationAccelerometerFrequencyHelp": {
+        "message": "对于手动模式(Acro) 来说，这个数值可以比默认值更低"
+    },
+    "configurationAttitudeFrequencyHelp": {
+        "message": "对于手动模式(Acro) 来说，这个数值可以比默认值更低"
+    },
+    "configurationLoopTimeHelp": {
+        "message": "一般来说较大的数值会比较好，用于非同步陀螺仪应该保持在陀螺仪更新频率以下，最大的数值取决于硬件能力，如果设置值太高可能让飞控无法运行，可查看CPU使用率"
+    },
+    "tabOSD": {
+        "message": "OSD"
+    },
+    "configurationSensors": {
+        "message": "传感器"
+    },
+    "sensorAccelerometer": {
+        "message": "加速计"
+    },
+    "sensorMagnetometer": {
+        "message": "罗盘"
+    },
+    "sensorBarometer": {
+        "message": "气压计"
+    },
+    "sensorPitot": {
+        "message": "空速计"
+    },
+    "sensorRangefinder": {
+        "message": "测距仪"
+    },
+    "sensorOpflow": {
+        "message": "光流器"
+    },
+    "manualEnablingTemplate": {
+        "message": "透过CLI执行 <strong>feature {name}</strong> 指令来开启"
+    },
+    "armingFailureReasonTitle": {
+        "message": "解锁前检查"
+    },
+    "BLOCKED_UAV_NOT_LEVEL": {
+        "message": "飞行器处于水平状态"
+    },
+    "BLOCKED_SENSORS_CALIBRATING": {
+        "message": "实时校准"
+    },
+    "BLOCKED_SYSTEM_OVERLOADED": {
+        "message": "CPU负载"
+    },
+    "BLOCKED_NAVIGATION_SAFETY": {
+        "message": "导航处于安全状态"
+    },
+    "BLOCKED_COMPASS_NOT_CALIBRATED": {
+        "message": "罗盘已校准"
+    },
+    "BLOCKED_ACCELEROMETER_NOT_CALIBRATED": {
+        "message": "加速计已校准"
+    },
+    "BLOCKED_HARDWARE_FAILURE": {
+        "message": "硬件自检通过"
+    },
+    "BLOCKED_INVALID_SETTING": {
+        "message": "设置已验证"
+    },
+    "armingCheckPass": {
+        "message": "<div class=\"checkspass\">装备检查通过</div>"
+    },
+    "armingCheckFail": {
+        "message": "<div class=\"checksfail\">装备检查不通过</div>"
+    },
+    "calibrationHead1": {
+        "message": "加速计校准"
+    },
+    "calibrationHead2": {
+        "message": "加速计数值"
+    },
+    "calibrationHead3": {
+        "message": "水平校准"
+    },
+    "calibrationHead4": {
+        "message": "罗盘校准"
+    },
+    "calibrationHead5": {
+        "message": "光流校准"
+    },
+    "OpflowCalText": {
+        "message": "按下按键之后，您有 30 秒的时间握住飞行器并且往两侧倾斜，但不需要水平移动，必需注意光流要随时保持能感应某个平面"
+    },
+    "OpflowCalBtn": {
+        "message": "校准光流传感器"
+    },
+    "accZero": {
+        "message": "加速计零值"
+    },
+    "accGain": {
+        "message": "加速计取值"
+    },
+    "NoteCalibration": {
+        "message": "注意 : 如果飞控板以不同的角度安装，请依照图示中的步骤进行校准，否则将无法完成校准"
+    },
+    "AccBtn": {
+        "message": "校准加速计"
+    },
+    "MagCalText": {
+        "message": "按下按键之后，您有 30 秒的时间将飞行器旋转到各个方向(前后左右上下)"
+    },
+    "MagBtn": {
+        "message": "校准罗盘"
+    },
+    "LevCalText": {
+        "message": "请输入一些文字 ..."
+    },
+    "LevBtn": {
+        "message": "水平校准"
+    },
+    "tabMixer": {
+        "message": "混控"
+    },
+    "tabPresets": {
+        "message": "默认配置"
+    },
+    "presetsPreset": {
+        "message": "默认"
+    },
+    "presetsDescription": {
+        "message": "说明"
+    },
+    "presetsButtonApply": {
+        "message": "套用"
+    },
+    "presetApplyTitle" : {
+        "message": "确认"
+    },
+    "presetsButtonSaveAndReboot": {
+        "message": "储存并重启"
+    },
+    "presetsApplyHeader": {
+        "message": "警告"
+    },
+    "presetApplyDescription": {
+        "message": "<p style='color: darkred;'>确保在应用任何预设之前配置了 <strong>混控</strong>！</p><p>预设会覆盖选定的配置值，包括混合器、过滤、PID 以及其它相关设置，但是不会变更飞行模式、遥控设置、失控保护以及 OSD 设置，不要将默认配置认定为最佳设置，但可做为参考，并且在飞行前再次确认新的设置值。 <br> 飞行前务必检查新配置！</p>"
+    },
+    "OK": {
+        "message": "确认"
+    },
+    "accCalibrationStartTitle": {
+        "message": "加速计校准"
+    },
+    "accCalibrationStartBody": {
+        "message": "将飞控板依照图示摆放，然后按下 <strong>校准</strong> 按键，重复动作 6 个方位并且尽量在过程中保持稳定"
+    },
+    "accCalibrationStopTitle": {
+        "message": "校准完成"
+    },
+    "accCalibrationStopBody": {
+        "message": "加速计校准完成，检查数值并储存"
+    },
+    "accCalibrationProcessing": {
+        "message": "处理中 ..."
+    },
+    "tabProgramming": {
+        "message": "编程"
+    },
+    "tabAdvancedTuning": {
+        "message": "进阶调整"
+    },
+    "advancedTuningSave": {
+        "message": "储存并重启"
+    },
+    "tabAdvancedTuningTitle": {
+        "message": "进阶调整"
+    },
+    "tabAdvancedTuningGenericTitle": {
+        "message": "通用设置"
+    },
+    "presetApplyHead": {
+        "message": "应用以下设置："
+    },
+    "gyroNotchHz1": {
+        "message": "第一陀螺仪陷波频率"
+    },
+    "gyroNotchCutoff1": {
+        "message": "第一陀螺仪陷波中断频率"
+    },
+    "gyroNotchHz2": {
+        "message": "第二陀螺仪陷波频率"
+    },
+    "gyroNotchCutoff2": {
+        "message": "第二陀螺仪陷波中断频率"
+    },
+    "gyroNotchHz1Help": {
+        "message": "应该调整到桨的谐波频率。通常是 <i>[电机频率] × [桨数量]</i><br><br>必需高于中断频率<br><br><i>0</i> 关闭滤波"
+    },
+    "gyroNotchHz2Help": {
+        "message": "应该调整到桨的谐波频率。<br><br>必需高于中断频率并且低于第一陀螺仪陷波频率<br><br><i>0</i> 关闭滤波"
+    },
+    "gyroNotchCutoff1Help": {
+        "message": "设置陷波频率频段。<br><br>必需保持在低于陷波频率"
+    },
+    "gyroNotchCutoff2Help": {
+        "message": "设置陷波频率频段。<br><br>必需保持在低于陷波频率"
+    },
+    "dtermNotchHz": {
+        "message": "D 增益陷波频率"
+    },
+    "dtermNotchCutoff": {
+        "message": "D 增益陷波中断频率"
+    },
+    "dtermNotchHzHelp": {
+        "message": "应该调整到第一和第二陀螺仪陷波频率之间。<br><br>必需高于中断频率<br><br><i>0</i> 关闭滤波"
+    },
+    "dtermNotchCutoffHelp": {
+        "message": "设置滤波频段。<br><br>必需保持在低于陷波频率"
+    },
+    "multiRotorNavigationConfiguration": {
+        "message": "多旋翼导航设置"
+    },
+    "userControlMode": {
+        "message": "用户控制模式"
+    },
+    "posholdMaxSpeed": {
+        "message": "最大导航速度 (cm/s)"
+    },
+    "posholdMaxManualSpeed": {
+        "message": "最大巡航速度 (cm/s)"
+    },
+    "posholdMaxClimbRate": {
+        "message": "最大导航爬升速率 (cm/s)"
+    },
+    "posholdMaxManualClimbRate": {
+        "message": "最大定高爬升速率 (cm/s)"
+    },
+    "posholdMaxBankAngle": {
+        "message": "多旋翼最大倾斜角度 (deg)"
+    },
+    "posholdMaxBankAngleHelp": {
+        "message": "导航模式时的最大倾斜角度，这会受到 PID 调整页签中的最大滚转角度限制"
+    },
+    "posholdHoverThrottle": {
+        "message": "停悬油门"
+    },
+    "posholdHoverMidThrottle": {
+        "message": "定高最小油门"
+    },
+    "mcWpSlowdown": {
+        "message": "接近航点时减速"
+    },
+    "mcWpSlowdownHelp": {
+        "message": "开启时，导航引擎会在切换到下一个航点时减速。 会优先考虑向前移动。 禁用时，导航引擎将继续到下一个航点并随其转动。"
+    },
+    "positionEstimatorConfiguration": {
+        "message": "位置估算"
+    },
+    "w_z_baro_p": {
+        "message": "气压计垂直位置权重"
+    },
+    "w_z_gps_p": {
+        "message": "GPS 垂直位置权重"
+    },
+    "w_z_gps_v": {
+        "message": "GPS 垂直速度权重"
+    },
+    "w_xy_gps_p": {
+        "message": "GPS 水平位置权重"
+    },
+    "w_xy_gps_v": {
+        "message": "GPS 水平速度权重"
+    },
+    "positionEstimatorConfigurationDisclaimer": {
+        "message": "这些设置值必需小心变更，大部份的情况下不需要变更，仅适用于进阶使用者"
+    },
+    "gps_min_sats": {
+        "message": "GPS 有效定位的最小量"
+    },
+    "w_z_baro_p_help": {
+        "message": "当此值设置为 <strong>0</strong> 时，气压计不用于高度计算"
+    },
+    "w_z_gps_p_help": {
+        "message": "当此设置值为 <strong>0</strong>，GPS 将不会用于高度计算"
+    },
+    "wirelessModeSwitch": {
+        "message": "无线模式"
+    },
+    "rthConfiguration": {
+        "message": "自动返航和降落设置"
+    },
+    "autoLandingSettings": {
+        "message": "自动降落设置"
+    },
+    "minRthDistance": {
+        "message": "自动返航最小距离 (cm)"
+    },
+    "minRthDistanceHelp": {
+        "message": "如果无人机离返航点在这个距离内，它会降落而不是返航然后降落"
+    },
+    "rthClimbFirst": {
+        "message": "在自动返航前爬升"
+    },
+    "rthClimbFirstHelp": {
+        "message": "如果设置为 【开】 或【在自动返航前爬升】，飞机将首先爬升到 【自动返航高度】，然后再转向回家。 如果设置为 【关】，飞行器将在途中立即转弯并返航。 对于固定翼，【开】 将使用线性爬升，【在自动返航前爬升】 将使用 loiter 转弯爬升，爬升率由 【导航自动爬升率】 设置，转弯率由 【转弯半径】 设置（转弯半径是固定翼设置，其行为与多旋翼的 ON 相同）."
+    },
+    "rthClimbIgnoreEmergency": {
+        "message": "不论位置传感器是否正常都先执行爬升"
+    },
+    "rthAltControlOverride": {
+        "message": "覆盖自动返航高度和爬升设置【滚转/俯仰等】"
+    },
+    "rthAltControlOverrideHELP": {
+        "message": "当开启时, 全速爬升可以取消俯仰，下降超过1秒，飞机将在当前高度返航。在固定翼飞机上，“自动返航前爬升”设置可通过保持完全爬升来覆盖滚转，偏航>1秒，以便飞机立即转向家。"
+    },
+    "rthTailFirst": {
+        "message": "以机尾优先"
+    },
+    "rthAllowLanding": {
+        "message": "自动返航后降落"
+    },
+    "rthAltControlMode": {
+        "message": "自动返航高度模式"
+    },
+    "rthAbortThreshold": {
+        "message": "自动返航终止距离 [cm]"
+    },
+    "rthAbortThresholdHelp": {
+        "message": "安全自返功能会以触发自返时的位置为起点检查离家距离，例如强风导致离家距离不减反增，当增加超过此设置值的距离时则取消自返改为紧急降落，默认值是 500 米，这对于多轴机或固定翼应该都是安全的。"
+    },
+    "rthAltitude": {
+        "message": "自动返航高度 [cm]"
+    },
+    "rthAltitudeHelp": {
+        "message": "当自动返航高度模式设置为 EXTRA【额外】、FIXED【固定】 或 AT_LEAST【至少】 的时候会参考此参数所设置的高度数值"
+    },
+    "rthHomeAltitudeLabel": {
+        "message": "自动返航高度 [cm]"
+    },
+    "rthHomeAltitudeHelp": {
+        "message": "未在返航点着陆时使用。 到家后，飞机将徘徊并改变高度至返航返航高度。 默认值为 0，即禁用功能。"
+    },
+    "landMaxAltVspd": {
+        "message": "<strong>初始着陆速度</strong>，直到达到<strong>减速高度</strong>"
+    },
+    "landMaxAltVspdHelp": {
+        "message": "自动返航后如果开启自动着陆，飞行器将以此速度开始下降，直到到达<strong>减速高度</strong>"
+    },
+    "landSlowdownMaxAlt": {
+        "message": "<strong>减速高度</strong>。 飞机开始减速的高度"
+    },
+    "landSlowdownMaxAltHelp": {
+        "message": "当飞机到达此高度时，它将开始在<strong>初始着陆速度</strong>和<strong>最终着陆速度</strong>之间线性减速，以在<strong>最终进近高度</strong>到达【即会以垂直降落速度 (降落速度) 设置值的 100% 做为降落速度，并且在降落过程中减速到垂直降落速度 (降落速度) 设置值的 25%】"
+    },
+    "landMinAltVspd": {
+        "message": "<strong>最终着陆速度</strong>。 到达<strong>最终进近高度</strong>时飞机在着陆前的速度"
+    },
+    "landMinAltVspdHelp": {
+        "message": "飞行器从<strong>减速高度</strong>以<strong>初始着陆速度</strong>直线减速后到达<strong>最终进近高度</strong>时，<strong>飞行器垂直速度目标将是这个值</strong>"
+    },
+    "landSlowdownMinAlt": {
+        "message": "<strong>最后进近高度</strong>。 飞机以<strong>最终着陆速度</strong>下降直到着陆的高度"
+    },
+    "emergencyDescentRate": {
+        "message": "紧急降落速度 [cm/s]"
+    },
+    "cruiseThrottle": {
+        "message": "巡航油门"
+    },
+    "cruiseYawRateLabel": {
+        "message": "巡航偏航率"
+    },
+    "cruiseYawRateHelp": {
+        "message": "这是巡航和3D巡航中的转弯速度。"
+    },
+    "cruiseManualThrottleLabel": {
+        "message": "允许手动增加油门"
+    },
+    "cruiseManualThrottleHelp": {
+        "message": "启用此选项将允许您在所有导航模式下覆盖自动油门控制。 您不能低于自动油门值，除非电机停在零油门。"
+    },
+    "minThrottle": {
+        "message": "最小油门"
+    },
+    "maxThrottle": {
+        "message": "最大油门"
+    },
+    "maxBankAngle": {
+        "message": "最大倾斜角度 [degrees]"
+    },
+    "maxBankAngleHelp": {
+        "message": "导航模式时的最大倾斜角度，这会受到 PID 调整页签中的最大滚转角度限制"
+    },
+    "maxClimbAngle": {
+        "message": "最大爬升角度 [degrees]"
+    },
+    "maxClimbAngleHelp": {
+        "message": "导航模式时的最大爬升角度，这会受到 PID 调整页签中的最大俯仰角度限制"
+    },
+    "navManualClimbRate": {
+        "message": "最大高度保持爬升率 [cm/s]"
+    },
+    "navManualClimbRateHelp": {
+        "message": "在处理定高模式的先导输入时，允许最大爬升/下降速率固件 [cm/s]"
+    },
+    "navAutoClimbRate": {
+        "message": "最大爬升率 [cm/s]"
+    },
+    "navAutoClimbRateHelp": {
+        "message": "在导航模式下允许无人机达到的最大爬升/下降速率。 [cm/s]"
+    },
+    "maxDiveAngle": {
+        "message": "最大俯冲角 [degrees]"
+    },
+    "maxDiveAngleHelp": {
+        "message": "导航模式时的最大俯冲角度，这会受到 PID 调整页签中的最大俯仰角度限制"
+    },
+    "pitchToThrottle": {
+        "message": "俯仰到油门比率"
+    },
+    "pitchToThrottleHelp": {
+        "message": "在导航模式时每次爬升的角度都会以这里的设置量增加到巡航油门"
+    },
+    "pitchToThrottleSmoothing": {
+        "message": "油门平滑"
+    },
+    "pitchToThrottleSmoothingHelp": {
+        "message": "飞控调节油门的平稳程度、水平回应、俯仰角度变化 [0-9]."
+    },
+    "pitchToThrottleThreshold": {
+        "message": "瞬时油门调整阈值 [centidegrees]"
+    },
+    "pitchToThrottleThresholdHelp": {
+        "message": "如果俯仰角度比滤波值大，飞控会立即调整油门水平，不平滑根据俯仰给油门。"
+    },
+    "loiterRadius": {
+        "message": "绕圈半径 [cm]"
+    },
+    "loiterDirectionLabel": {
+        "message": "绕圈方向"
+    },
+    "loiterDirectionHelp": {
+        "message": "此设置允许您选择飞行方向。选择偏航允许您用偏航杆改变飞行方向。"
+    },
+     "controlSmoothness": {
+        "message": "控制平滑度"
+    },
+     "controlSmoothnessHelp": {
+        "message": "飞控控制飞机纠正导航错误的平稳程度 [0-9]."
+    },
+    "powerConfiguration": {
+        "message": "电池估算设置"
+    },
+    "idlePower": {
+        "message": "待机耗电量 [cW]"
+    },
+    "idlePowerHelp": {
+        "message": "用于以 0.01W 为单位的剩余飞行时间/距离估计的零油门功耗"
+    },
+    "cruisePower": {
+        "message": "巡航功率 [cW]"
+    },
+    "cruisePowerHelp": {
+        "message": "用于以 0.01W 为单位的剩余飞行时间/距离估计的巡航油门功率消耗"
+    },
+    "cruiseSpeed": {
+        "message": "巡航速度 [cm/s]"
+    },
+    "cruiseSpeedHelp": {
+        "message": "用于剩余 飞行时间/距离 估计的巡航油门时 飞机/机翼 的速度（以 cm/s 为单位）"
+    },
+    "rthEnergyMargin": {
+        "message": "自动返航能量裕度 [%]"
+    },
+    "rthEnergyMarginHelp": {
+        "message": "自动返航需要的电量（电池能量容量的百分比）。 用于剩余飞行时间/距离计算。"
+    },
+    "generalNavigationSettings": {
+        "message": "一般导航设置"
+    },
+    "waypointConfiguration": {
+        "message": "航点导航设置"
+    },
+    "waypointRadius": {
+        "message": "航点半径 [cm]"
+    },
+    "waypointRadiusHelp": {
+        "message": "【设置与触发到达航路点的航路点之间的距离。不知道翻译是否准确，如不准确请将准确翻译发邮件到lmoxiaonian@qq.com】（原文：This sets the distance away from a waypoint that triggers the waypoint as reached.）"
+    },
+    "waypointSafeDistance": {
+        "message": "航点安全距离 [cm]."
+    },
+    "waypointSafeDistanceHelp": {
+        "message": "起始点和第一个航点之间的最大距离。"
+    },
+    "fixedWingNavigationConfiguration": {
+      "message": "固定翼导航设置"
+    },
+    "osdLayoutDefault": {
+        "message": "默认布局"
+    },
+    "osdLayoutAlternative": {
+        "message": "备选布局 #$1"
+    },
+    "osdUnitImperial": {
+        "message": "英制"
+    },
+    "osdUnitMetric": {
+        "message": "公制"
+    },
+    "osdUnitUK": {
+        "message": "英制"
+    },
+    "osdUnitUKTip": {
+        "message": "除了速度以英里显示，其余使用公制单位"
+    },
+    "osd_rssi_alarm": {
+        "message": "RSSI 信号强度 (%)"
+    },
+    "osdAlarmBATT_CAP": {
+        "message": "消耗电量"
+    },
+    "osdAlarmBATT_CAP_HELP": {
+        "message": "当消耗的总mah大于此值时，蓄电池已用容量指示灯（mah）将闪烁。设置 0 则关闭通知，这个功能需要电流传感器"
+    },
+    "osd_time_alarm": {
+        "message": "飞行时间 (分钟)"
+    },
+    "osd_alt_alarm": {
+        "message": "高度 (米)"
+    },
+    "osd_dist_alarm": {
+        "message": "距离 (米)"
+    },
+    "osdAlarmDIST_HELP": {
+        "message": "当距离起飞地点大于此设置值时，图示会闪烁通知，设置 0 则关闭通知"
+    },
+    "osd_neg_alt_alarm": {
+        "message": "负向高度 (米)"
+    },
+    "osdAlarmMAX_NEG_ALTITUDE_HELP": {
+        "message": "当高度数值是负数时，或是绝对值大于此设置值时，图示会闪烁通知，设置 0 则关闭通知"
+    },
+    "osd_gforce_alarm": {
+        "message": "G 力"
+    },
+    "osdAlarmGFORCE_HELP": {
+        "message": "当大于此设置值时，G 力图示会闪烁通知"
+    },
+    "osd_gforce_axis_alarm_min": {
+        "message": "最小 G 力轴"
+    },
+    "osdAlarmGFORCE_AXIS_MIN_HELP": {
+        "message": "当小于此设置值时，G 力图示会闪烁通知"
+    },
+    "osd_gforce_axis_alarm_max": {
+        "message": "最大 G 力轴"
+    },
+    "osdAlarmGFORCE_AXIS_MAX_HELP": {
+        "message": "当大于此设置值时，G 力图示会闪烁通知"
+    },
+    "osd_current_alarm": {
+        "message": "电流 (A)"
+    },
+    "osdAlarmCURRENT_HELP": {
+        "message": "当电流大于此设置值时，图示会闪烁通知，设置 0 表示关闭"
+    },
+    "osd_imu_temp_alarm_min": {
+        "message": "IMU 最低温度"
+    },
+    "osd_imu_temp_alarm_max": {
+        "message": "IMU 最高温度"
+    },
+    "osd_baro_temp_alarm_min": {
+        "message": "最低气压温度"
+    },
+    "osd_baro_temp_alarm_max": {
+        "message": "最高气压温度"
+    },
+    "osd_esc_temp_alarm_min": {
+        "message": "最低电调温度"
+    },
+    "osd_esc_temp_alarm_max": {
+        "message": "最大电调温度"
+    },
+    "osd_snr_alarm": {
+        "message": "CRSF SNR水平报警"
+    },
+    "osdalarmSNR_HELP": {
+        "message": "信噪比仅显示在此值下方。0dB（1:1），表示接收到的信号等于噪声下限。"
+    },
+    "osd_link_quality_alarm": {
+        "message": "CRSF链路质量报警"
+    },
+    "osdalarmLQ_HELP": {
+        "message": "【不知道怎么翻译好，意会意会】For Crossfire use 70%. For Tracer use 50%."
+    },
+    "osd_rssi_dbm_alarm": {
+        "message": "CRSF RSSI dBm 警报"
+    },
+    "osd_rssi_dbm_alarm_HELP": {
+        "message": "RSSI 指示灯在此值以下闪烁。 范围：[-130,0]。 0禁用此警报。"
+    },
+    "osdGroupGeneral": {
+        "message": "概况"
+    },
+    "osdGroupAltitude": {
+        "message": "高度"
+    },
+    "osdGroupTimers": {
+        "message": "时间"
+    },
+    "osdGroupGForce": {
+        "message": "G 力"
+    },
+    "osdGroupTemperature": {
+        "message": "温度"
+    },
+    "osdGroupAttitude": {
+        "message": "姿态"
+    },
+    "osdGroupCurrentMeter": {
+        "message": "电流计"
+    },
+    "osdGroupGPS": {
+        "message": "GPS"
+    },
+    "osdGroupPowerLimits": {
+        "message": "功率限制"
+    },
+    "osdGroupPIDs": {
+        "message": "遥控器可调数值"
+    },
+    "osdGroupPIDOutputs": {
+        "message": "PID 控制器输出"
+    },
+    "osdGroupVTX": {
+        "message": "图传"
+    },
+    "osdGroupCRSF": {
+        "message": "CRSF RX 统计数据"
+    },
+    "osdGroupMapsAndRadars": {
+        "message": "地图和雷达"
+    },
+    "osdGroupMapsAndRadars_HELP": {
+        "message": "地图和雷达的区块中可放置其它显示项目，只要它们不要重叠到可视地图的部份即可"
+    },
+    "osdElement_ONTIME_FLYTIME": {
+        "message": "启动时间 / 飞行时间"
+    },
+    "osdElement_RSSI_VALUE": {
+        "message": "RSSI (信号强度)"
+    },
+    "osdElement_RSSI_VALUE_HELP": {
+        "message": "显示从遥控器收到的信号强度 (越高越好)"
+    },
+    "osdElement_MAIN_BATT_VOLTAGE": {
+        "message": "电池电压"
+    },
+    "osdElement_SAG_COMP_MAIN_BATT_VOLTAGE": {
+        "message": "凹陷补偿电池电压"
+    },
+    "osdElement_SAG_COMP_MAIN_BATT_VOLTAGE_HELP": {
+        "message": "应在空载状态计算电池电压(模拟理想的电池电压)"
+    },
+    "osdElement_MESSAGES": {
+        "message": "系统资讯"
+    },
+    "osdElement_MESSAGES_HELP": {
+        "message": "显示各种系统资讯，例如警示、硬件故障或飞行模式(例如自动调谐或返航阶段)"
+    },
+    "osdElement_MAIN_BATT_CELL_VOLTAGE": {
+        "message": "电池单节电压"
+    },
+    "osdElement_SAG_COMP_MAIN_BATT_CELL_VOLTAGE": {
+        "message": "凹陷补偿电池单节电压"
+    },
+    "osdElement_SAG_COMP_MAIN_BATT_CELL_VOLTAGE_HELP": {
+        "message": "应在空载状态计算电池单节电压(模拟理想的电池电压)"
+    },
+    "osdElement_MAIN_BATT_REMAINING_PERCENTAGE": {
+        "message": "剩余电量百分比"
+    },
+    "osdElement_MAIN_BATT_REMAINING_CAPACITY": {
+        "message": "电池剩余容量"
+    },
+    "osdElement_REMAINING_FLIGHT_TIME_HELP": {
+        "message": "依据剩余的电池能量、平均输出功率以及离家距离，估算飞行器回到起飞点的剩余时间 (只适用固定翼，参阅文档说明)"
+    },
+    "osdElement_REMAINING_FLIGHT_DISTANCE_HELP": {
+        "message": "依据剩余的电池能量、平均输出功率以及离家距离，估算飞行器回到起飞点的剩余距离 (只适用固定翼，参阅文档说明)"
+    },
+    "osdElement_MAIN_BATT_CELL_VOLTAGE_HELP": {
+        "message": "显示电池的单节平均电压"
+    },
+    "osdElement_MAH_DRAWN": {
+        "message": "mAh 示意图"
+    },
+    "osdElement_EFFICIENCY_MAH": {
+        "message": "效率 mAh/Km"
+    },
+    "osdElement_EFFICIENCY_WH": {
+        "message": "效率 Wh/Km"
+    },
+    "osdElement_PLIMIT_REMAINING_BURST_TIME": {
+        "message": "剩余爆发时间"
+    },
+    "osdElement_PLIMIT_ACTIVE_CURRENT_LIMIT": {
+        "message": "有源电流限制"
+    },
+    "osdElement_PLIMIT_ACTIVE_POWER_LIMIT": {
+        "message": "做工功率限制"
+    },
+    "osdElement_THROTTLE_POSITION_AUTO_THR": {
+        "message": "油门位置 / 自动油门"
+    },
+    "osdElement_THROTTLE_POSITION_AUTO_THR_HELP": {
+        "message": "显示遥控器油门摇杆对应飞行模式时的油门位置，在导航模式下则显示对应电机的实际油门数值"
+    },
+    "osdElement_GPS_SPEED": {
+        "message": "GPS 速度"
+    },
+    "osdElement_GPS_SPEED_HELP": {
+        "message": "基于 GPS 显示地速"
+    },
+    "osdElement_MSL_ALTITUDE": {
+        "message": "海平面高度"
+    },
+    "osdElement_MSL_ALTITUDE_HELP": {
+        "message": "高于海平面高度"
+    },
+    "osdElement_3D_SPEED": {
+        "message": "3D 速度"
+    },
+    "osdElement_3D_SPEED_HELP": {
+        "message": "综合水平速度和垂直速度来显示 3D 速度"
+    },
+    "osdElement_GPS_SATS": {
+        "message": "GPS 卫星数量"
+    },
+    "osdElement_GPS_SATS_HELP": {
+        "message": "显示 GPS 接收器所接收到的卫星数量"
+    },
+    "osdElement_GPS_HDOP": {
+        "message": "GPS 精度"
+    },
+    "osdElement_GPS_HDOP_HELP": {
+        "message": "显示 GPS 水平精度因子，数值愈低愈准确"
+    },
+    "osdElement_PLUS_CODE": {
+        "message": "Plus Code (经纬度)"
+    },
+    "osdElement_PLUS_CODE_HELP": {
+        "message": "Plus Code 可以在单一数值上包含经纬度资讯，并且可以直接输入到 Google 地图，它提供跟经纬度一样的精度并且使用较少的字符"
+    },
+    "osdElement_AZIMUTH": {
+        "message": "方位角"
+    },
+    "osdElement_AZIMUTH_HELP": {
+        "message": "方位角是飞机相对于返航点的方向。 将飞机保持在正确的航线上或将飞机保持在固定定向天线的前面是很有用的。"
+    },
+    "osdElement_TRIP_DIST": {
+        "message": "离家距离"
+    },
+    "osdElement_VARIO_HELP": {
+        "message": "显示 使用向上或向下箭头垂直速度。 每个箭头代表每秒 10 厘米（~4 英寸）。"
+    },
+    "osdElement_VARIO_NUM": {
+        "message": "数字型升降速度"
+    },
+    "osdElement_VARIO_NUM_HELP": {
+        "message": "以数字显示升降速度"
+    },
+    "osdElement_G_FORCE": {
+        "message": "G 力"
+    },
+    "osdElement_G_FORCE_HELP": {
+        "message": "显示所有轴向的 G 力"
+    },
+    "osdElement_G_FORCE_X": {
+        "message": "纵向 G 力 (X)"
+    },
+    "osdElement_G_FORCE_X_HELP": {
+        "message": "显示 X 轴 G 力 (纵向)"
+    },
+    "osdElement_G_FORCE_Y": {
+        "message": "横向 G 力 (Y)"
+    },
+    "osdElement_G_FORCE_Y_HELP": {
+        "message": "显示 Y 轴 G 力 (横向)"
+    },
+    "osdElement_G_FORCE_Z": {
+        "message": "垂直 G 力 (Z)"
+    },
+    "osdElement_G_FORCE_Z_HELP": {
+        "message": "显示 Z 轴 G 力 (垂直)"
+    },
+    "osdElement_ROLL_PIDS": {
+        "message": "滚转 PIDs"
+    },
+    "osdElement_PITCH_PIDS": {
+        "message": "俯仰 PIDs"
+    },
+    "osdElement_YAW_PIDS": {
+        "message": "偏航 PIDs"
+    },
+    "osdElement_ONTIME_FLYTIME_HELP": {
+        "message": "显示尚未解锁时的启动时间以及解锁后的飞行时间"
+    },
+    "osdElement_RTC_TIME": {
+        "message": "目前时间"
+    },
+    "osdElement_RTC_TIME_HELP": {
+        "message": "从 GPS 或遥控器得知目前时间并显示"
+    },
+    "osdElement_RC_SOURCE": {
+        "message": "RC 来源"
+    },
+    "osdElement_RC_SOURCE_HELP": {
+        "message": "显示目前 RC 来源，STP 或 MSP (当使用 MSP 覆盖时比较有帮助)"
+    },
+    "osdElement_VTX_POWER": {
+        "message": "图传发射功率级数"
+    },
+    "osdElement_VTX_POWER_HELP": {
+        "message": "显示目前的图传发射功率级数 (Blinks when the corresponding RC adjustment is selected)"
+    },
+    "osdElement_ESC_RPM": {
+        "message": "电机转速来自电调数传"
+    },
+    "osdElement_VTX_CHANNEL": {
+        "message": "图传频段和频道"
+    },
+    "osdElement_VTX_CHANNEL_HELP": {
+        "message": "显示图传目前使用的频段和频道，必需有支持 SmartAudio 或 Tramp 的图传，或是飞控本身附有图传"
+    },
+    "osdElement_CRSF_RSSI_DBM": {
+        "message": "接收机信号质量 dBm"
+    },
+    "osdElement_CRSF_LQ": {
+        "message": "接收机链接质量 %"
+    },
+    "osdElement_CRSF_LQ_HELP": {
+        "message": "使用 Crossfire LQ Format 设置来选择格式类型。"
+    },
+    "osdElement_CRSF_SNR_DB": {
+        "message": "以 dB 为单位的接收上行链路 SNR"
+    },
+    "osdElement_CRSF_SNR_DB_HELP": {
+        "message": "仅当信噪比低于报警水平时显示。在0dB时，水平接收信号等于水平噪声层。"
+    },
+    "osdElement_CRSF_TX_POWER": {
+        "message": "发射功率（mW）"
+    },
+    "osdElement_MAP_NORTH": {
+        "message": "地图 (北上)"
+    },
+    "osdElement_MAP_TAKEOFF": {
+        "message": "地图 (起飞点方位)"
+    },
+    "osdElement_RADAR": {
+        "message": "雷达"
+    },
+    "osdElement_MAP_SCALE": {
+        "message": "地图比例"
+    },
+    "osdElement_MAP_SCALE_HELP": {
+        "message": "目前显示的 地图/雷达 比例"
+    },
+    "osdElement_MAP_REFERENCE": {
+        "message": "参考地图"
+    },
+    "osdElement_MAP_REFERENCE_HELP": {
+        "message": "目前地图参考方向，N 表示北方，T 表示起飞方向"
+    },
+    "osdElement_WIND_SPEED_HORIZONTAL": {
+        "message": "水平风速"
+    },
+    "osdElement_WIND_SPEED_HORIZONTAL_HELP": {
+        "message": "显示估算的水平风速和方向"
+    },
+    "osdElement_WIND_SPEED_VERTICAL": {
+        "message": "垂直风速"
+    },
+    "osdElement_WIND_SPEED_VERTICAL_HELP": {
+        "message": "显示估算的垂直风速和方向(上或下)"
+    },
+    "osdElement_LEVEL_PIDS": {
+        "message": "PIDs 层级"
+    },
+    "osdElement_POS_XY_PIDS": {
+        "message": "XY 位置 PIDs"
+    },
+    "osdElement_POS_Z_PIDS": {
+        "message": "Z 位置 PIDs"
+    },
+    "osdElement_VEL_XY_PIDS": {
+        "message": "XY 速度 PIDs"
+    },
+    "osdElement_VEL_Z_PIDS": {
+        "message": "Z 速度 PIDs"
+    },
+    "osdElement_FW_ALT_PID_OUTPUTS": {
+        "message": "固定翼高度 PID 控制器输出"
+    },
+    "osdElement_FW_POS_PID_OUTPUTS": {
+        "message": "固定翼位置 PID 控制器输出"
+    },
+    "osdElement_MC_VEL_X_PID_OUTPUTS": {
+        "message": "多轴 X 速度 PID 控制器输出"
+    },
+    "osdElement_MC_VEL_Y_PID_OUTPUTS": {
+        "message": "多轴 Y 速度 PID 控制器输出"
+    },
+    "osdElement_MC_VEL_Z_PID_OUTPUTS": {
+        "message": "多轴 Z 速度 PID 控制器输出"
+    },
+    "osdElement_MC_POS_XYZ_P_OUTPUTS": {
+        "message": "多轴 XYZ 位置 PID 控制器输出"
+    },
+    "osdElement_IMU_TEMPERATURE": {
+        "message": "IMU 温度"
+    },
+    "osdElement_IMU_TEMPERATURE_HELP": {
+        "message": "IMU 的温度"
+    },
+    "osdElement_BARO_TEMPERATURE": {
+        "message": "气压计温度"
+    },
+    "osdElement_BARO_TEMPERATURE_HELP": {
+        "message": "气压计的温度"
+    },
+    "osdElement_ESC_TEMPERATURE": {
+        "message": "电调温度"
+    },
+    "osdElement_ESC_TEMPERATURE_HELP": {
+        "message": "从DSHOT遥测读取的电调温度"
+    },
+    "osdGroupGVars": {
+        "message": "全局变量"
+    },
+    "osdElement_GVAR_0": {
+        "message": "全局变量 0"
+    },
+    "osdElement_GVAR_1": {
+        "message": "全局变量 1"
+    },
+    "osdElement_GVAR_2": {
+        "message": "全局变量 2"
+    },
+    "osdElement_GVAR_3": {
+        "message": "全局变量 3"
+    },
+    "osdElement_SENSOR1_TEMPERATURE": {
+        "message": "温度检知 1"
+    },
+    "osdElement_SENSOR2_TEMPERATURE": {
+        "message": "温度检知 2"
+    },
+    "osdElement_SENSOR3_TEMPERATURE": {
+        "message": "温度检知 3"
+    },
+    "osdElement_SENSOR4_TEMPERATURE": {
+        "message": "温度检知 4"
+    },
+    "osdElement_SENSOR5_TEMPERATURE": {
+        "message": "温度检知 5"
+    },
+    "osdElement_SENSOR6_TEMPERATURE": {
+        "message": "温度检知 6"
+    },
+    "osdElement_SENSOR7_TEMPERATURE": {
+        "message": "温度检知 7"
+    },
+    "osdElement_SENSOR8_TEMPERATURE": {
+        "message": "温度检知 8"
+    },
+    "osdSettingMainVoltageDecimals": {
+        "message": "主电压小数值"
+    },
+    "osdElement_OSD_RANGEFINDER": {
+        "message": "测距仪距离"
+    },
+    "osdSettingPLUS_CODE_DIGITS_HELP": {
+        "message": "赤道精度: 10=13.9x13.9m; 11=2.8x3.5m; 12=56x87cm; 13=11x22cm."
+    }, 
+    "osdSettingPLUS_CODE_SHORT_HELP": {
+        "message": "移去2、4、6前导位分别需要在~800km、~40km、~2km范围内的参考位置来恢复原始坐标。"
+    },
+    "osdSettingCRSF_LQ_FORMAT_HELP": {
+        "message": "TYPE1 显示 TBS 硬件使用的 LQ%。 TYPE2 显示射频配置文件模式（2=150Hz，1=50Hz，0=4Hz 更新率）和 LQ % [0..100%]。 Tracer 显示 RFMode 1 (1=250Hz) 和 LQ % [0..100%]。"
+    },
+    "uploadingCharacters": {
+        "message": "上传中 ..."
+    },
+    "uploadedCharacters": {
+        "message": "$1 字符已上传"
+    },
+    "portColumnSensors": {
+        "message": "传感器"
+    },
+    "appUpdateNotificationHeader": {
+        "message": "已有新版调参软件可用"
+    },
+    "appUpdateNotificationDescription": {
+        "message": "请浏览<a href=\"https://github.com/iNavFlight/inav-configurator/releases\" target=\"_blank\">网站</a> 以便获得新资讯并且下载【小念汉化】"
+    },
+    "closeUpdateBtn": {
+        "message": "关闭"
+    },
+    "downloadUpdatesBtn": {
+        "message": "下载新的程序"
+    },
+    "tabMissionControl": {
+        "message": "任务控制"
+    },
+    "loadMissionButton": {
+        "message": "从飞控板载入任务"
+    },
+    "saveMissionButton": {
+        "message": "上传任务到飞控板"
+    },
+    "loadEepromMissionButton": {
+        "message": "载入 飞控存储器 任务"
+    },
+    "saveEepromMissionButton": {
+        "message": "储存 飞控存储器 任务"
+    },
+    "loadFileMissionButton": {
+        "message": "载入档案"
+    },
+    "saveFileMissionButton": {
+        "message": "储存档案"
+    },
+    "missionSettingsSave": {
+        "message": "保存"
+    },
+    "missionSettingsCancel": {
+        "message": "取消"
+    },
+    "editPointHead": {
+        "message": "编辑航点"
+    },
+    "editPointButtonSave": {
+        "message": "保存"
+    },
+    "editPointButtonRemove": {
+        "message": "移除"
+    },
+    "removeAllPointButtonSave": {
+        "message": "移除所有航点"
+    },
+    "missionTotalInformationHead": {
+        "message": "所有资讯"
+    },
+    "missionRTHsettingsTitle": {
+        "message": "自动返航设置"
+    },
+    "missionDefaultSettingsHead": {
+        "message": "默认设置"
+    },
+    "missionSafehomeHead": {
+        "message": "安全起飞点管理"
+    },
+    "missionTemplateHead": {
+        "message": "任务模板"
+    },
+    "missionActionMenuHead": {
+        "message": "操作菜单"
+    },
+    "useOnlyStandalone": {
+        "message": "使用独立程序<br> 请浏览 <a href=\"https://github.com/iNavFlight/inav-configurator/releases\" target=\"_blank\">网站</a> 以便得知更新资讯并且下载【小念汉化】"
+    },
+    "eeprom_load_ok": {
+        "message": "可擦写存储器 <span style=\"color: #37a8db\">已载入</span>"
+    },
+    "confirm_delete_all_points": {
+        "message": "您确定要移除所有航点?"
+    },
+    "confirm_delete_point_with_options": {
+        "message": "【注意，此项翻译可能有不准确的地方】您真的要用非地理跳转设置机头自动返航选项删除此航路点吗？如果是，附加的非地理选项也将被删除！ （原文：Do you really want to delete this Waypoint with non-Geo JUMP/SET_HEAD/RTH options? \nIf yes, Non-Geo options attached will be removed also!）"
+    },
+    "servoMixer": {
+        "message": "舵机混控"
+    },
+    "servoMixerDelete": {
+        "message": "删除"
+    },
+    "servoMixerAdd": {
+        "message": "新增混控规则"
+    },
+    "platformType": {
+        "message": "平台类型"
+    },
+    "platformConfiguration": {
+        "message": "平台配置"
+    },
+    "platformHasFlaps": {
+        "message": "包含襟翼"
+    },
+    "mixerPreset": {
+        "message": "默认混控"
+    },
+    "mixerLoadPresetRules": {
+        "message": "载入混控"
+    },
+    "mixerLoadAndApplyPresetRules": {
+        "message": "载入并套用"
+    },
+    "mixerApplyModalTitle" : {
+        "message": "确认"
+    },
+    "mixerButtonSaveAndReboot": {
+        "message": "储存并重启"
+    },
+    "mixerApplyDescription": {
+        "message": "此操作会覆盖所有当前的混控设置并用默认值替换它们。 没有“撤消”选项！"
+    },
+    "mixerWizardModalTitle" : {
+        "message": "四轴飞行器混合向导"
+    },
+    "mixerWizardModalApply" : {
+        "message": "应用"
+    },
+    "motorWizard0": {
+        "message": "右后"
+    },
+    "motorWizard1": {
+        "message": "右前"
+    },
+    "motorWizard2": {
+        "message": "后左"
+    },
+    "motorWizard3": {
+        "message": "前左"
+    },
+    "mixerWizardMotorPosition": {
+        "message": "电机位置"
+    },
+    "mixerWizardMotorIndex": {
+        "message": "电机指数"
+    },
+    "settings": {
+        "message": "设置"
+    },
+    "motorMixer": {
+        "message": "电机混控"
+    },
+    "servo": {
+        "message": "舵机"
+    },
+    "input": {
+        "message": "输入"
+    },
+    "fixedValue": {
+        "message": "固定值 (µs)"
+    },
+    "weight": {
+        "message": "分量 (%)"
+    },
+    "speed": {
+        "message": "速度 (10µs/s)"
+    },
+    "mixerPresetTitle": {
+        "message": "默认混控"
+    },
+    "fcFirmwareUpdateRequired": {
+        "message": "飞控固件必需更新到最新版才能使用此功能"
+    },
+    "mixerNotConfigured": {
+        "message": "没有配置混控，进入 <u>混控</u> 页签内设置"
+    },
+    "confirm_reset_settings": {
+        "message": "您确定要复位所有设置?\n注意 : 所有设置将会复位，您必需重新设置所有功能"
+    },
+    "mappingTableOutput": {
+        "message": "输出"
+    },
+    "mappingTableFunction": {
+        "message": "功能"
+    },
+    "mappingTableTitle": {
+        "message": "输出映射"
+    },
+    "NONE": {
+        "message": "无"
+    },
+    "DEFAULT": {
+        "message": "默认"
+    },
+    "AIRCRAFT": {
+        "message": "飞机"
+    },
+    "ALTITUDE": {
+        "message": "高度"
+    },
+    "GROUND_SPEED": {
+        "message": "地速"
+    },
+    "HOME_DISTANCE": {
+        "message": "离起飞点距离"
+    },
+    "brakingSpeedThreshold": {
+        "message": "最小速度 [cm/s]"
+    },
+    "brakingSpeedThresholdTip": {
+        "message": "刹车动作只会在实际速度高于设置值时启动"
+    },
+    "brakingDisengageSpeed": {
+        "message": "脱离刹车速度 [cm/s]"
+    },
+    "brakingDisengageSpeedTip": {
+        "message": "当速度低于设置值时结束刹车动作"
+    },
+    "brakingTimeout": {
+        "message": "最大刹车时间 [ms]"
+    },
+    "brakingTimeoutTip": {
+        "message": "安全措施，这是刹车动作的最长时间"
+    },
+    "brakingBoostFactor": {
+        "message": "增压因素 [%]"
+    },
+    "brakingBoostFactorTip": {
+        "message": "设置增压刹车，100% 表示导航引擎允许加倍的爬升速度"
+    },
+    "brakingBoostTimeout": {
+        "message": "最大增压刹车时间 [ms]"
+    },
+    "brakingBoostTimeoutTip": {
+        "message": "安全措施，这是增压刹车动作的最长时间"
+    },
+    "brakingBoostSpeedThreshold": {
+        "message": "最小增压. 速度值 [cm/s]"
+    },
+    "brakingBoostSpeedThresholdTip": {
+        "message": "增压刹车动作只会在实际速度高于设置值时启动"
+    },
+    "brakingBoostDisengageSpeed": {
+        "message": "脱离增压刹车速度 [cm/s]"
+    },
+    "brakingBoostDisengageSpeedTip": {
+        "message": "当速度低于设置值时结束增压刹车动作"
+    },
+    "brakingBankAngle": {
+        "message": "最大爬升角度 [degrees]"
+    },
+    "brakingBankAngleTip": {
+        "message": "刹车时可允许的最大坡度角"
+    },
+    "multirotorBrakingConfiguration": {
+        "message": "多轴机刹车模式设置"
+    },
+    "mapProvider": {
+        "message": "地图提供厂商"
+    },
+    "mapApiKey": {
+        "message": "地图 API 密匙"
+    },
+    "proxyURL": {
+        "message": "地图代理网址"
+    },
+    "proxyLayer": {
+        "message": "地图代理图层"
+    },
+    "accNotchHz": {
+        "message": "加速度计, 陷波滤波器频率"
+    },
+    "accNotchHzHelp": {
+        "message": "允许为加速度计读数设置单个陷波滤波器。 如果加速度计记录到高于 acc 的噪声尖峰，则应以与陀螺仪陷波相同的方式进行配置低通滤波器"
+    },
+    "accNotchCutoff": {
+        "message": "加速度计, 陷波滤波器截止频率"
+    },
+    "accNotchCutoffHelp": {
+        "message": "设置应低于陷波滤波器频率"
+    },
+    "gyroStage2LpfCutoffFrequency": {
+        "message": "陀螺仪二阶段 LPF 截止频率"
+    },
+    "gyroStage2LpfCutoffFrequencyHelp": {
+        "message": "二阶段陀螺低通滤波器，相当于 Betaflight 非卡尔曼二阶段滤波器，它必需设置在第一级陀螺仪 LPF 之上，对于 5 英寸和 6 英寸的多轴机来说通常意味着高于 150Hz，7 英寸的多轴机则高于 125Hz"
+    },
+    "escProtocolNotAdvised": {
+        "message": "不建议使用这个电调协议，您必需自行承担风险"
+    },
+    "escProtocolExperimental": {
+        "message": "实验性质的电调协议，您必需自行承担风险"
+    },
+    "looptimeNotAdvised": {
+        "message": "如果 GPS 正在使用中，PID loop 可能会不稳定"
+    },
+    "gyroLpfSuggestedMessage": {
+        "message": "这是对于所有使用 8 吋桨的多轴机建议设置，务必在第一次飞行后检查电机温度"
+    },
+    "gyroLpfNotAdvisedMessage": {
+        "message": "建议选择更高的截止频率"
+    },
+    "gyroLpfNotFlyableMessage": {
+        "message": "这个设置可能会让无人机无法使用"
+    },
+    "gyroLpfWhyNotHigherMessage": {
+        "message": "如果电机温度没有过热，请尝试使用 256Hz"
+    },
+    "gyroLpfWhyNotSlightlyHigherMessage": {
+        "message": "如果电机温度没有过热并且没有震动现象，请尝试使用 188Hz"
+    },
+    "tabLogicConditions": {
+        "message": "逻辑条件"
+    },
+    "logicId": {
+        "message": "#"
+    },
+    "logicEnabled": {
+        "message": "开启"
+    },
+    "logicOperation": {
+        "message": "操作"
+    },
+    "logicOperandA": {
+        "message": "操作 A"
+    },
+    "logicOperandB": {
+        "message": "操作 B"
+    },
+    "logicFlags": {
+        "message": "旗标"
+    },
+    "logicStatus": {
+        "message": "状态"
+    },
+    "logicSave": {
+        "message": "保存"
+    },
+    "logicClose": {
+        "message": "关闭"
+    },
+    "logicActivator": {
+        "message": "启动"
+    },
+    "save": {
+        "message": "保存"
+    },
+    "active": {
+        "message": "启动"
+    },
+    "itermRelax": {
+        "message": "松弛算法（Iterm Relax）"
+    },
+    "itermRelaxHelp": {
+        "message": "定义激活松弛算法。 PR 表示它在滚动和俯仰轴上处于活动状态。 PRY 在 偏航轴上也处于活动状态。"
+    },
+    "itermRelaxCutoff": {
+        "message": "松弛截止频率"
+    },
+    "itermRelaxCutoffHelp": {
+        "message": "较低的值会为松弛算法 （Iterm Relax）打开较长的时间窗口，并使Iterm抑制更强。较高的值会缩短时间窗口并减少抑制。"
+    },
+    "gyro_main_lpf_hz": {
+        "message": "主陀螺滤波器截止频率"
+    },
+    "gyro_main_lpf_hz_help": {
+        "message": "值越高，延迟越小，但噪声越大。较低的值提供更少的噪声，但陀螺仪处理的延迟更多"
+    },
+    "gyro_main_lpf_type": {
+        "message": "陀螺仪滤波器类型"
+    },
+    "gyro_main_lpf_type_help": {
+        "message": "BIQUAD提供了更好的噪声衰减，但代价是更高的延迟。PT1具有较低的衰减，但提供较低的延迟。"
+    },
+    "dterm_lpf_type": {
+        "message": "D-term 滤波器类型"
+    },
+    "dterm_lpf_type_help": {
+        "message": "BIQUAD提供了更好的噪声衰减，但代价是更高的延迟。PT1具有较低的衰减，但提供较低的延迟。"
+    },
+    "dterm_lpf2_type": {
+        "message": "D-term 第二阶段滤波器类型"
+    },
+    "dterm_lpf2_type_help": {
+        "message": "BIQUAD提供了更好的噪声衰减，但代价是更高的延迟。PT1具有较低的衰减，但提供较低的延迟。"
+    },
+    "dterm_lpf2_hz": {
+        "message": "D-term 第二阶段截至频率"
+    },
+    "dterm_lpf2_hz_help": {
+        "message": "滚动和俯仰轴上 D-term 低通截止滤波器。 0 为过滤器被禁用"
+    },
+    "tabFilteringAdvanced": {
+        "message": "其他滤波器"
+    },
+    "mainFilters": {
+        "message": "陀螺仪滤波器"
+    },
+    "rpmFilters": {
+        "message": "陀螺仪转速滤波器"
+    },
+    "dtermFilters": {
+        "message": "D-term 滤波器"
+    },
+    "rpm_gyro_filter_enabled": {
+        "message": "陀螺仪转速滤波器 (需要电调遥测)"
+    },
+    "rpm_gyro_min_hz": {
+        "message": "陀螺仪转速滤波器最小频率"
+    },
+    "acc_lpf_type": {
+        "message": "加速度计通滤波器类型"
+    },
+    "acc_lpf_type_help": {
+        "message": "BIQUAD提供了更好的噪声衰减，但代价是更高的延迟。PT1具有较低的衰减，但提供较低的延迟。"
+    },
+    "dTermMechanics": {
+        "message": "D-term 力学"
+    },
+    "tpaMechanics": {
+        "message": "推力PID衰减"
+    },
+    "fw_level_pitch_trim": {
+        "message": "水平调整 [deg]"
+    },
+    "fw_level_pitch_trim_help": {
+        "message": "自动调平飞行模式的俯仰配平。以度为单位+5意味着机头应该从水平面升高5度"
+    },
+    "fwLevelTrimMechanics": {
+        "message": "固定翼水平配平"
+    },
+    "d_boost_factor": {
+        "message": "D-Boost 因子"
+    },
+    "d_boost_factor_help": {
+        "message": "定义达到最大角加速度时的最大Dterm增压。1.0意味着D-Boost被禁用，2.0意味着Dterm可以增长100%。介于1.5和1.7之间的值通常是最佳值。"
+    },
+    "d_boost_max_at_acceleration": {
+        "message": "加速时的顶部D-Boost [dps^2]"
+    },
+    "d_boost_max_at_acceleration_help": {
+        "message": "当角加速度（陀螺仪或速率目标检测到）达到给定加速度时，D-Boost完全激活。在0和这个值之间，D-Boost因子是按比例线性的"
+    },
+    "d_boost_gyro_delta_lpf_hz": {
+        "message": "D-Boost 陀螺低通滤波器"
+    },
+    "d_boost_gyro_delta_lpf_hz_help": {
+        "message": "应设置为螺旋桨洗浆振荡的频率。5英寸的四轴飞行器在80赫兹左右工作得最好，7英寸的四轴飞行器在50赫兹左右工作得最好"
+    },
+    "iTermMechanics": {
+        "message": "I-term 力学"
+    },
+    "airmode_type": {
+        "message": "空气模式处理类型"
+    },
+    "airmode_type_help": {
+        "message": "【此项帮助不知道翻译是否准确！尽量看原文！】定义空气模式状态处理类型<br/>默认摇杆中心是一种经典方法。在这种方法中，如果打开，则空气模型始终处于激活状态，但当油门低且横滚/俯仰/偏航摇杆居中时，不允许Iterms增长（防缠绕）<br/>保持中心一次的工作原理与中位摇杆类似，但仅在第一次油门时且横滚/俯仰/偏航杆移动之前。在那之后，反U缠绕被停用，直到下一个舵量。对飞机有用的油门阈值是BetaLight已知的空气模型行为。在此模式下，一旦油门位置高于<i>空气模式油门阈值</i>时，空气模型即处于激活状态，直到解除防护。不会触发防缠绕。对于小型多旋翼机（7英寸的螺旋桨），建议切换到油门开度阈值，因为无论飞行员如何操作操纵杆，油门开度阈值都能保持完全稳定。飞机默认为“保持中心一次”模式。<br />【原文】Defines the Airmode state handling type. <br />Default STICK_CENTER is the classical approach in which Airmode is always active if open, but when the throttle is low and roll/pitch/yaw sticks are centered, Iterms is not allowed to grow (ANTI_WINDUP). <br />STICK_CENTER_ONCE works like STICK_CENTER, but only until the first time THROTTLE is not low and roll/pitch/yaw sticks are moved. After that, ANTI_WINDUP is deactivated until next arm. Useful for airplanes. <br />THROTTLE_THRESHOLD is the Airmode behavior known from Betaflight. In this mode, Airmode is active as soon THROTTLE position is above <i>airmode_throttle_threshold</i> and stays active until disarm. ANTI_WINDUP is never triggered. For small Multirotors (up to 7-inch propellers) it is suggested to switch to THROTTLE_THRESHOLD since it keeps full stabilization no matter what pilot does with the sticks. Airplanes default to STICK_CENTER_ONCE mode."
+    },
+    "airmode_throttle_threshold": {
+        "message": "空气模式油门阈值"
+    },
+    "airmode_throttle_threshold_help": {
+        "message": "当使用空气模式型油门门阈值时，定义空气模式油门的激活阈值"
+    },
+    "gps_map_center": {
+        "message": "中心"
+    },
+    "antigravityGain": {
+        "message": "反重力增益"
+    },
+    "antigravityAccelerator": {
+        "message": "反重力加速器"
+    },
+    "antigravityCutoff": {
+        "message": "反重力截止频率"
+    },
+    "itermBankAngleFreeze": {
+        "message": "横摆角"
+    },
+    "itermBankAngleFreezeHelp": {
+        "message": "当飞机倾斜超过这么多度时，冻结偏航。这有助于阻止方向舵抵消转弯。0禁用此功能。仅适用于固定翼飞机。"
+    },
+    "ouptputsConfiguration": {
+        "message": "配置"
+    },
+    "vtxDisclaimer": {
+        "message": "请在你飞行的地方使用合法的波段、频道和功率！请务必参阅图传用户手册和当地法规！"
+    },
+    "defaultsDialogTitle": {
+        "message": "默认值"
+    },
+    "defaultsDialogInfo": {
+        "message": "INAV配置程序想知道您正在配置哪种无人机。基于此信息，它将修改一些默认值以解锁最佳飞行性能。 "
+    },
+    "defaultsDialogInfo2": {
+        "message": "请不要盲目地从以前版本的INAV恢复所有PID和过滤器配置。从默认值重新调整可以获得更好的结果！"
+    },
+    "throttleIdle": {
+        "message": "电机怠速功率 [%]"
+    },
+    "throttleIdleDigitalInfo": {
+        "message": "对于数字协议，怠速功率甚至可以降低到5-7%，而无需电机在空中停止。如果一架无人机在拉低油门后摇摆不定，试着增加怠速来调整这种行为。"
+    },
+    "throttleIdleAnalogInfo": {
+        "message": "对于模拟协议，如果电机工作平稳，没有颤抖，怠速功率可以降低到10%以下。如果一架无人机在拉低油门后摇摆不定，试着增加怠速来调整这种行为。"
+    },
+    "motor_poles": {
+        "message": "电机极数（磁铁数）"
+    },
+    "motorStopWarning": {
+        "message": "应该在固定翼，漫游者和船上打开。不应在多旋翼上打开！在多旋翼上，当空气模式激活时，电机不会停止。"
+    },
+    "reversibleEscWarning": {
+        "message": "使用可逆电机时，将电机怠速功率设置为 0%"
+    },
+    "dynamic_gyro_notch_enabled_help": {
+        "message": "矩阵陀螺滤波器是INAV中新一代的动态陀螺陷波器。建议在F4和F7飞行控制器上的所有多旋翼机型上启用。"
+    },
+    "globalFunctions": {
+        "message": "全局函数"
+    },
+    "functionId": {
+        "message": "#"
+    },
+    "functionEnabled": {
+        "message": "开启"
+    },
+    "functionLogicId": {
+        "message": "激活逻辑条件"
+    },
+    "functionAction": {
+        "message": "行动"
+    },
+    "functionOperand": {
+        "message": "运算对象"
+    },
+    "functionFlags": {
+        "message": "标签"
+    },
+    "configurationI2cSpeed": {
+        "message": "I2C 速度"
+    },
+    "configurationI2cSpeedHelp": {
+        "message": "I2C速度应保持在允许所有连接设备工作的最高水平。默认400kHz是一个保守值，如果是多转子，建议切换到800kHz。"
+    },
+    "i2cSpeedSuggested800khz": {
+        "message": "如果连接的硬件允许，请切换到800kHz"
+    },
+    "i2cSpeedTooLow": {
+        "message": "I2C的速度太低了！"
+    },
+    "configurationVoltageMeterType": {
+        "message": "电压表类型"
+    },
+    "configurationCurrentMeterType": {
+        "message": "电流表类型"
+    },
+    "MissionPlannerJumpSettingsCheck": {
+        "message": "跳转设置不正确：请再次检查\n强制WP 1！"
+    },
+    "MissionPlannerJump2SettingsCheck": {
+        "message": "跳转设置不正确：重复次数不应超过10次！\n请再检查一遍！强制重复次数等于0！"
+    },
+    "MissionPlannerJump3SettingsCheck": {
+        "message": "跳转设置不正确：无法跳转到POI! \n强制WP 1！"
+    },
+    "MissionPlannerHeadSettingsCheck": {
+        "message": "航向值不正确：请重新检查！默认情况下强制为-1！"
+    },
+    "MissionPlannerRTHSettingsCheck": {
+        "message": "自动返航选项不正确：应为0或1。请重新检查\n默认强制为0，即自动返航之后没有着陆！"
+    },
+    "MissionPlannerJumpTargetRemoval": {
+        "message": "不能删除定义为跳转目标的航路点\n您首先需要移除触发跳转的航路点上的目标。"
+    },
+    "SafehomeSelected": {
+        "message": ""
+    },
+    "SafehomeId": {
+        "message": "#"
+    },
+    "SafehomeEnabled": {
+        "message": "开启"
+    },
+    "SafehomeLon": {
+        "message": "Lon"
+    },
+    "SafehomeLat": {
+        "message": "Lat"
+    },
+    "WaypointOptionSelected": {
+        "message": "+"
+    },
+    "WaypointOptionId": {
+        "message": "#"
+    },
+    "WaypointOptionAction": {
+        "message": "类型"
+    },
+    "WaypointOptionP1": {
+        "message": "P1"
+    },
+    "WaypointOptionP2": {
+        "message": "P2"
+    },
+    "rollPitchAdjustmentsMoved": {
+        "message": "滚动和俯仰板方向仅在CLI中可用。不要用它来调整飞机水平飞行！使用“机械”下的“PID调整”选项卡上的“固定翼水平配平”（<strong>fw_水平_俯仰_阈值</strong>）"
+    },
+    "pidId": {
+        "message": "#"
+    },
+    "pidEnabled": {
+        "message": "开启"
+    },
+    "pidSetpoint": {
+        "message": "设定值"
+    },
+    "pidMeasurement": {
+        "message": "度量"
+    },
+    "pidP": {
+        "message": "比例增益（P-gain）"
+    },
+    "pidI": {
+        "message": "积分增益（I-gain）"
+    },
+    "pidD": {
+        "message": "微分增益（D-gain）"
+    },
+    "pidFF": {
+        "message": "FF增益（FF-gain）"
+    },
+    "pidOutput": {
+        "message": "输出"
+    }
+}
